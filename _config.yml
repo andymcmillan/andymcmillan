@@ -1,3 +1,4 @@
-name: Good On Paper
+name:     Good On Paper
 markdown: redcarpet
 pygments: true
+include:  ['.htaccess']
