@@ -1,0 +1,338 @@
+/* HTML5 Elements */
+/* line 2, ../scss/_reset.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, main {
+  display: block;
+}
+
+/* line 3, ../scss/_reset.scss */
+audio[controls], canvas, video {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+
+/* Eric Meyer's Reset CSS */
+/* line 19, ../scss/_reset.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary, main,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* line 28, ../scss/_reset.scss */
+body {
+  line-height: 1;
+}
+
+/* line 31, ../scss/_reset.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 34, ../scss/_reset.scss */
+blockquote, q {
+  quotes: none;
+}
+
+/* line 38, ../scss/_reset.scss */
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+/* line 42, ../scss/_reset.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* HTML5 Boilerplate */
+/* line 49, ../scss/_reset.scss */
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+/* line 55, ../scss/_reset.scss */
+a:focus {
+  outline: thin dotted;
+}
+
+/* line 56, ../scss/_reset.scss */
+a:hover, a:active {
+  outline: 0;
+}
+
+/* line 58, ../scss/_reset.scss */
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+/* line 60, ../scss/_reset.scss */
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+
+/* Correct overflow displayed oddly in IE9  */
+/* line 63, ../scss/_reset.scss */
+svg:not(:root) {
+  overflow: hidden;
+}
+
+/* line 65, ../scss/_reset.scss */
+label {
+  cursor: pointer;
+}
+
+/* line 68, ../scss/_reset.scss */
+legend {
+  border: 0;
+  *margin-left: -7px;
+  padding: 0;
+}
+
+/* line 69, ../scss/_reset.scss */
+button, input, select, textarea {
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+  *vertical-align: middle;
+}
+
+/* line 70, ../scss/_reset.scss */
+button, input {
+  line-height: normal;
+  *overflow: visible;
+}
+
+/* line 71, ../scss/_reset.scss */
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+  cursor: pointer;
+  -webkit-appearance: button;
+}
+
+/* line 72, ../scss/_reset.scss */
+input[type="checkbox"], input[type="radio"] {
+  box-sizing: border-box;
+}
+
+/* line 73, ../scss/_reset.scss */
+input[type="search"] {
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+/* line 74, ../scss/_reset.scss */
+button::-moz-focus-inner, input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+/* line 75, ../scss/_reset.scss */
+textarea {
+  overflow: auto;
+  vertical-align: top;
+}
+
+/* line 1, ../scss/_screen.scss */
+::-moz-selection {
+  color: #114A80;
+  text-shadow: none;
+  background-color: #D2DDE9;
+}
+
+/* line 2, ../scss/_screen.scss */
+::selection {
+  color: #114A80;
+  text-shadow: none;
+  background-color: #D2DDE9;
+}
+
+/* line 4, ../scss/_screen.scss */
+html {
+  border-top: solid 6px #114A80;
+  background: white;
+  -webkit-tap-highlight-color: rgba(31, 86, 144, 0.2);
+}
+
+/* line 10, ../scss/_screen.scss */
+body {
+  background: transparent;
+  font-family: "colfax-web";
+  margin: 0 auto;
+  margin-bottom: 10%;
+  color: #555E68;
+  width: 50%;
+}
+
+/* line 19, ../scss/_screen.scss */
+h1 {
+  font-size: 29px;
+  line-height: 1em;
+  font-weight: 700;
+  color: #114A80;
+  margin-top: 4em;
+}
+
+/* line 27, ../scss/_screen.scss */
+p {
+  font-size: 18px;
+  line-height: 1.9em;
+  margin: 1em 0;
+}
+
+/* line 33, ../scss/_screen.scss */
+a {
+  color: #114A80;
+  text-decoration: none;
+  border-bottom: 3px solid #D2DDE9;
+  font-weight: 700;
+}
+
+/* line 40, ../scss/_screen.scss */
+a:hover {
+  color: #000000;
+  border-bottom-color: #000000;
+}
+
+/* < ~1100 - Width */
+@media screen and (max-width: 1050px) {
+  /* line 47, ../scss/_screen.scss */
+  body {
+    width: 55%;
+  }
+}
+@media screen and (max-width: 950px) {
+  /* line 48, ../scss/_screen.scss */
+  body {
+    width: 60%;
+  }
+}
+@media screen and (max-width: 800px) {
+  /* line 49, ../scss/_screen.scss */
+  body {
+    width: 70%;
+  }
+}
+@media screen and (max-width: 600px) {
+  /* line 50, ../scss/_screen.scss */
+  body {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 500px) {
+  /* line 51, ../scss/_screen.scss */
+  body {
+    width: 90%;
+  }
+}
+/* < ~1100 - Type */
+@media screen and (max-width: 600px) {
+  /* line 55, ../scss/_screen.scss */
+  h1 {
+    font-size: 27px;
+  }
+
+  /* line 56, ../scss/_screen.scss */
+  p {
+    font-size: 17px;
+    line-height: 1.85;
+  }
+}
+@media screen and (max-width: 500px) {
+  /* line 60, ../scss/_screen.scss */
+  html {
+    border-top-width: 4px;
+  }
+
+  /* line 62, ../scss/_screen.scss */
+  h1 {
+    margin-top: 3em;
+    font-size: 24px;
+  }
+
+  /* line 63, ../scss/_screen.scss */
+  p {
+    font-size: 15px;
+    line-height: 1.8;
+  }
+
+  /* line 64, ../scss/_screen.scss */
+  a {
+    border-bottom-width: 2px;
+  }
+}
+@media screen and (max-width: 400px) {
+  /* line 68, ../scss/_screen.scss */
+  h1 {
+    margin-top: 2em;
+  }
+}
+/* > ~1100 */
+@media screen and (min-width: 1200px) {
+  /* line 75, ../scss/_screen.scss */
+  html {
+    border-top-width: 8px;
+  }
+
+  /* line 77, ../scss/_screen.scss */
+  h1 {
+    font-size: 32px;
+  }
+
+  /* line 78, ../scss/_screen.scss */
+  p {
+    font-size: 20px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  /* line 82, ../scss/_screen.scss */
+  h1 {
+    font-size: 36px;
+  }
+
+  /* line 83, ../scss/_screen.scss */
+  p {
+    font-size: 22px;
+  }
+}
+@media screen and (min-width: 1550px) {
+  /* line 87, ../scss/_screen.scss */
+  html {
+    border-top-width: 10px;
+  }
+
+  /* line 88, ../scss/_screen.scss */
+  body {
+    max-width: 850px;
+  }
+
+  /* line 90, ../scss/_screen.scss */
+  h1 {
+    font-size: 38px;
+  }
+
+  /* line 91, ../scss/_screen.scss */
+  p {
+    font-size: 24px;
+  }
+}
