@@ -2,91 +2,57 @@
 ::selection       { color: #114A80; text-shadow: none; background-color: #D2DDE9; }
 
 html {
-  border-top: solid 6px #114A80;
   background: white;
   -webkit-tap-highlight-color: rgba(31, 86, 144, 0.2);
 }
 	
 body {
-  background: transparent;
+  padding: 10% 5%;
+
+  background: white;
+  border-top: solid 0.4em #114A80;
+  
   font-family: "colfax-web";
-  margin: 0 auto;
-  margin-bottom: 10%;
   color: #555E68;
-  width: 50%;
+  
+  font-size: 15px;
+  @media screen and (min-width: 400px)  { font-size: 16px; }
+  @media screen and (min-width: 650px)  { font-size: 17px; }
+  @media screen and (min-width: 900px)  { font-size: 18px; }
+  @media screen and (min-width: 1050px) { font-size: 19px; }
+  @media screen and (min-width: 1200px) { font-size: 20px; }
+  @media screen and (min-width: 1400px) { font-size: 21px; }
+  @media screen and (min-width: 1600px) { font-size: 22px; }
+}
+
+main {
+  margin: 0 auto;
+  max-width: 32em;
 }
 
 h1 {
-  font-size: 29px;
-  line-height: 1em;
+  font-size: 1.6em;
+  line-height: 1.2;
   font-weight: 700;
   color: #114A80;
-  margin-top: 4em;
 }
 
 p {
-  font-size: 18px;
-  line-height: 1.9em;
   margin: 1em 0;
+  line-height: 1.6;
+  @media screen and (min-width: 400px) { line-height: 1.65; }
+  @media screen and (min-width: 650px) { line-height: 1.7; }
+  @media screen and (min-width: 900px) { line-height: 1.8; }
 }
 
 a {
   color: #114A80;
   text-decoration: none;
-  border-bottom: 3px solid #D2DDE9;
+  border-bottom: 0.15em solid #D2DDE9;
   font-weight: 700;
-}
 
-a:hover {
-  color: #000000;
-  border-bottom-color: #000000;
-}
-
-/* < ~1100 - Width */
-
-@media screen and (max-width: 1050px) { body { width: 55%; } }
-@media screen and (max-width: 950px)  { body { width: 60%; } }
-@media screen and (max-width: 800px)  { body { width: 70%; } }
-@media screen and (max-width: 600px)  { body { width: 80%; } }
-@media screen and (max-width: 500px)  { body { width: 90%; } }
-
-/* < ~1100 - Type */
-@media screen and (max-width: 600px) {
-  h1    { font-size: 27px; }
-  p     { font-size: 17px; line-height: 1.85; }
-}
-
-@media screen and (max-width: 500px) {
-  html  { border-top-width: 4px; }
-
-  h1    { margin-top: 3em; font-size: 24px; }
-  p     { font-size: 15px; line-height: 1.8; }
-  a     { border-bottom-width: 2px; }
-}
-
-@media screen and (max-width: 400px) {
-  h1    { margin-top: 2em; }
-}
-
-
-/* > ~1100 */
-
-@media screen and (min-width: 1200px) {
-  html  { border-top-width: 8px; }
-
-  h1    { font-size: 32px; }
-  p     { font-size: 20px; }
-}
-
-@media screen and (min-width: 1400px) {
-  h1    { font-size: 36px; }
-  p     { font-size: 22px; }
-}
-
-@media screen and (min-width: 1550px) {
-  html  { border-top-width: 10px; }
-  body  { max-width: 850px; }
-
-  h1    { font-size: 38px; }
-  p     { font-size: 24px; }
+  &:hover {
+    color: #000000;
+    border-bottom-color: #000000;
+  }
 }

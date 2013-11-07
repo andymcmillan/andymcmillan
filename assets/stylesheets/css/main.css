@@ -169,170 +169,109 @@ textarea {
 
 /* line 4, ../scss/_screen.scss */
 html {
-  border-top: solid 6px #114A80;
   background: white;
   -webkit-tap-highlight-color: rgba(31, 86, 144, 0.2);
 }
 
-/* line 10, ../scss/_screen.scss */
+/* line 9, ../scss/_screen.scss */
 body {
-  background: transparent;
+  padding: 10% 5%;
+  background: white;
+  border-top: solid 0.4em #114A80;
   font-family: "colfax-web";
-  margin: 0 auto;
-  margin-bottom: 10%;
   color: #555E68;
-  width: 50%;
+  font-size: 15px;
 }
-
-/* line 19, ../scss/_screen.scss */
-h1 {
-  font-size: 29px;
-  line-height: 1em;
-  font-weight: 700;
-  color: #114A80;
-  margin-top: 4em;
-}
-
-/* line 27, ../scss/_screen.scss */
-p {
-  font-size: 18px;
-  line-height: 1.9em;
-  margin: 1em 0;
-}
-
-/* line 33, ../scss/_screen.scss */
-a {
-  color: #114A80;
-  text-decoration: none;
-  border-bottom: 3px solid #D2DDE9;
-  font-weight: 700;
-}
-
-/* line 40, ../scss/_screen.scss */
-a:hover {
-  color: #000000;
-  border-bottom-color: #000000;
-}
-
-/* < ~1100 - Width */
-@media screen and (max-width: 1050px) {
-  /* line 47, ../scss/_screen.scss */
+@media screen and (min-width: 400px) {
+  /* line 9, ../scss/_screen.scss */
   body {
-    width: 55%;
+    font-size: 16px;
   }
 }
-@media screen and (max-width: 950px) {
-  /* line 48, ../scss/_screen.scss */
+@media screen and (min-width: 650px) {
+  /* line 9, ../scss/_screen.scss */
   body {
-    width: 60%;
-  }
-}
-@media screen and (max-width: 800px) {
-  /* line 49, ../scss/_screen.scss */
-  body {
-    width: 70%;
-  }
-}
-@media screen and (max-width: 600px) {
-  /* line 50, ../scss/_screen.scss */
-  body {
-    width: 80%;
-  }
-}
-@media screen and (max-width: 500px) {
-  /* line 51, ../scss/_screen.scss */
-  body {
-    width: 90%;
-  }
-}
-/* < ~1100 - Type */
-@media screen and (max-width: 600px) {
-  /* line 55, ../scss/_screen.scss */
-  h1 {
-    font-size: 27px;
-  }
-
-  /* line 56, ../scss/_screen.scss */
-  p {
     font-size: 17px;
-    line-height: 1.85;
   }
 }
-@media screen and (max-width: 500px) {
-  /* line 60, ../scss/_screen.scss */
-  html {
-    border-top-width: 4px;
-  }
-
-  /* line 62, ../scss/_screen.scss */
-  h1 {
-    margin-top: 3em;
-    font-size: 24px;
-  }
-
-  /* line 63, ../scss/_screen.scss */
-  p {
-    font-size: 15px;
-    line-height: 1.8;
-  }
-
-  /* line 64, ../scss/_screen.scss */
-  a {
-    border-bottom-width: 2px;
+@media screen and (min-width: 900px) {
+  /* line 9, ../scss/_screen.scss */
+  body {
+    font-size: 18px;
   }
 }
-@media screen and (max-width: 400px) {
-  /* line 68, ../scss/_screen.scss */
-  h1 {
-    margin-top: 2em;
+@media screen and (min-width: 1050px) {
+  /* line 9, ../scss/_screen.scss */
+  body {
+    font-size: 19px;
   }
 }
-/* > ~1100 */
 @media screen and (min-width: 1200px) {
-  /* line 75, ../scss/_screen.scss */
-  html {
-    border-top-width: 8px;
-  }
-
-  /* line 77, ../scss/_screen.scss */
-  h1 {
-    font-size: 32px;
-  }
-
-  /* line 78, ../scss/_screen.scss */
-  p {
+  /* line 9, ../scss/_screen.scss */
+  body {
     font-size: 20px;
   }
 }
 @media screen and (min-width: 1400px) {
-  /* line 82, ../scss/_screen.scss */
-  h1 {
-    font-size: 36px;
+  /* line 9, ../scss/_screen.scss */
+  body {
+    font-size: 21px;
   }
-
-  /* line 83, ../scss/_screen.scss */
-  p {
+}
+@media screen and (min-width: 1600px) {
+  /* line 9, ../scss/_screen.scss */
+  body {
     font-size: 22px;
   }
 }
-@media screen and (min-width: 1550px) {
-  /* line 87, ../scss/_screen.scss */
-  html {
-    border-top-width: 10px;
-  }
 
-  /* line 88, ../scss/_screen.scss */
-  body {
-    max-width: 850px;
-  }
+/* line 28, ../scss/_screen.scss */
+main {
+  margin: 0 auto;
+  max-width: 32em;
+}
 
-  /* line 90, ../scss/_screen.scss */
-  h1 {
-    font-size: 38px;
-  }
+/* line 33, ../scss/_screen.scss */
+h1 {
+  font-size: 1.6em;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #114A80;
+}
 
-  /* line 91, ../scss/_screen.scss */
+/* line 40, ../scss/_screen.scss */
+p {
+  margin: 1em 0;
+  line-height: 1.6;
+}
+@media screen and (min-width: 400px) {
+  /* line 40, ../scss/_screen.scss */
   p {
-    font-size: 24px;
+    line-height: 1.65;
   }
+}
+@media screen and (min-width: 650px) {
+  /* line 40, ../scss/_screen.scss */
+  p {
+    line-height: 1.7;
+  }
+}
+@media screen and (min-width: 900px) {
+  /* line 40, ../scss/_screen.scss */
+  p {
+    line-height: 1.8;
+  }
+}
+
+/* line 48, ../scss/_screen.scss */
+a {
+  color: #114A80;
+  text-decoration: none;
+  border-bottom: 0.15em solid #D2DDE9;
+  font-weight: 700;
+}
+/* line 54, ../scss/_screen.scss */
+a:hover {
+  color: #000000;
+  border-bottom-color: #000000;
 }
