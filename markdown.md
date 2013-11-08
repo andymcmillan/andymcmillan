@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Byword MultiMarkdown Guide  
+accent: jam
 ---
   
 # Byword MultiMarkdown Guide
