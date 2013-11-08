@@ -23,7 +23,7 @@ These are defined in a Sass file, `assets/styleshets/scss/_screen.scss`, as such
 
     $accent-colors: ((default, #114A80), (jam, #76cc1e));
 
-Here's how it looks after adding `xoxo` one (_note the commas and spaces_):
+Here's how it looks after adding `xoxo` as a new accent color (_note the commas and spaces_):
 
     $accent-colors: ((default, #114A80), (jam, #76cc1e), (xoxo, #D0599F));
 
