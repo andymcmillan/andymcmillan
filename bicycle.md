@@ -4,7 +4,7 @@ title: Good On Paper · Bicycle
 accent: bike
 ---
 
-# For sale: Custom-built fixed gear Mission Bicycle (as new)
+# For sale: Custom-built single speed Mission Bicycle (as new)
 
 ![Grey fixed gear Mission Bicycle](http://farm9.staticflickr.com/8150/7532127978_e46ce1e144_c.jpg "Grey fixed gear Mission Bicycle")
 
