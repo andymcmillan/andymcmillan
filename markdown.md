@@ -83,10 +83,8 @@ In the vast majority of times, you will be using Markdown for its *raison d'Ãª
 
 ![Alt text](http://farm8.staticflickr.com/7141/6796099195_c8152901b4_b.jpg "Optional title")
 
-* Copy the HTML output directly to your clipboard -- so you can conveniently paste it into your favorite HTML editor[^fn-export];
+* Copy the HTML output directly to your clipboard -- so you can conveniently paste it into your favorite HTML editor;
 * Export to a file.
-
-[^fn-export]: When copying to clipboard, **Byword** will only place the equivalent of the `body` tag contents. On the other hand, when exporting to a file, a complete HTML file will be generated.
 
 We know how much you love **Byword**'s aesthetics so we even added a little bonus to the option of exporting to a file.
 
