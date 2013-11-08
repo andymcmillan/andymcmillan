@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Good On Paper · Bicycle 
-accent: jam
+accent: bike
 ---
 
 # For sale: Custom-built fixed gear Mission Bicycle (as new)

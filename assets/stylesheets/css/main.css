@@ -58,6 +58,11 @@ body.jam { border-top-color: #76cc1e; }
 .jam h1, .jam h2, .jam h3 { color: #76cc1e; }
 .jam a { color: #76cc1e; border-bottom-color: rgba(118, 204, 30, 0.25); }
 
+body.bike { border-top-color: #ca5d25; }
+
+.bike h1, .bike h2, .bike h3 { color: #ca5d25; }
+.bike a { color: #ca5d25; border-bottom-color: rgba(202, 93, 37, 0.25); }
+
 html { background: white; }
 
 body { padding: 10% 5%; background: white; border-top: solid 0.4em transparent; font-family: "colfax-web"; color: #555; font-size: 15px; }
