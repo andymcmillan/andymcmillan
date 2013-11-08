@@ -77,27 +77,11 @@ Due to **Byword**'s MultiMarkdown support you can even add custom attributes to 
 
 ---
 
-## Preview mode
-
-Markdown is often used as source to generate documents under more commonly used publishing formats like HTML. The fact that it's an extremely simple, plain text based formatting syntax pretty much turns any text editor into a Markdown editor.
-
-**Byword** expands the concept of a markdown editor by giving you the option to preview your text. At the distance of a shortcut (âŒ¥âŒ˜P), you can get a feel of how your writings will look like.
-
-![Byword in preview mode][img-preview]
-
-[img-preview]: img/preview.png "Byword in preview mode" class="shadow"
-
-The preview mode will render the text using your current style settings. To dismiss this mode and go back to editing, just hit the Escape key.
-
----
-
 ## Exporting documents
 
 In the vast majority of times, you will be using Markdown for its *raison d'Ãªtre* -- as a source format to generate HTML. **Byword** let's you export the HTML output in two ways:
 
-![Exporting options][img-export]
-
-[img-export]: img/export.png "Export options"
+![Alt text](http://farm8.staticflickr.com/7141/6796099195_c8152901b4_b.jpg "Optional title")
 
 * Copy the HTML output directly to your clipboard -- so you can conveniently paste it into your favorite HTML editor[^fn-export];
 * Export to a file.
@@ -106,9 +90,7 @@ In the vast majority of times, you will be using Markdown for its *raison d'Ãª
 
 We know how much you love **Byword**'s aesthetics so we even added a little bonus to the option of exporting to a file.
 
-![Exporting with Byword's current theme][img-export_theme]
-
-[img-export_theme]: img/export_theme.png "Exporting with Byword's current theme"
+![Alt text](http://farm8.staticflickr.com/7141/6796099195_c8152901b4_b.jpg "Optional title")
 
 Including **Byword**'s theme in the exported file will give you an exact copy of what you see in the preview mode. With this option enabled, font type, size and text width will be preserved when the output file is generated.
 
