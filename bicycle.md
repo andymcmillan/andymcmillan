@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Custom fixed gear Mission Bicycle  
+title: Good On Paper · Bicycle 
 accent: jam
 ---
 
-# For sale: Custom fixed gear Mission Bicycle
+# For sale: Custom fixed gear Mission Bicycle (as new)
 
 ![Grey fixed gear Mission Bicycle](http://farm9.staticflickr.com/8150/7532127978_e46ce1e144_c.jpg "Grey fixed gear Mission Bicycle")
 
