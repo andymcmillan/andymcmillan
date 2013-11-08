@@ -1,19 +1,38 @@
-::-moz-selection  { color: #114A80; text-shadow: none; background-color: #D2DDE9; }
-::selection       { color: #114A80; text-shadow: none; background-color: #D2DDE9; }
+$accent-colors: (('default', #114A80), ('jam', #76cc1e));
 
-html {
-  background: white;
-  -webkit-tap-highlight-color: rgba(31, 86, 144, 0.2);
+@mixin accent-color($name, $color) {
+
+  body.#{$name} {
+    border-top-color: $color;
+  }
+
+  .#{$name} {
+    h1, h2, h3 { color: $color; }
+
+    a {
+      color: $color;
+      border-bottom-color: rgba($color, 0.25);
+    }
+  }
+
+}
+
+@each $accent-pair in $accent-colors {
+  @include accent-color(nth($accent-pair,1), nth($accent-pair,2));
 }
 	
+html {
+  background: white;
+}
+
 body {
   padding: 10% 5%;
 
   background: white;
-  border-top: solid 0.4em #114A80;
+  border-top: solid 0.4em transparent;
   
   font-family: "colfax-web";
-  color: #555E68;
+  color: #555;
   
   font-size: 15px;
   @media screen and (min-width: 400px)  { font-size: 16px; }
@@ -37,27 +56,28 @@ main {
   max-width: 32em;
 }
 
-h1, h2, h3, li, p {
+h1, h2, h3 {
+  line-height: 1.4;
+}
+
+li, p {
   @include line-height();
 }
 
 h1 {
   font-size: 1.6em;
   font-weight: 700;
-  color: #114A80;
 }
 
 h2 {
-  color: #114A80;
+  font-size: 1.25em;
   font-weight: 700;
-  font-size: 1.1em;
   margin-top: 2em;
 }
 
 h3 {
   font-weight: 700;
   margin-top: 2em;
-  color: #333;
 }
 
 hr {
@@ -80,10 +100,9 @@ main > ol {
 }
 
 a {
-  color: #114A80;
-  text-decoration: none;
-  border-bottom: 0.15em solid #D2DDE9;
   font-weight: 700;
+  text-decoration: none;
+  border-bottom: 0.15em solid transparent;
 
   &:hover {
     color: #000000;
