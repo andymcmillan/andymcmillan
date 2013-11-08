@@ -69,7 +69,7 @@ Even though Markdown's formatting syntax is light, there are a couple of commonl
 
 If you drag images into the text, they will automatically be replaced by a Markdown reference to the file.
 
-Due to **Byword**'s MultiMarkdown support you can even add custom attributes to your images, altering the way they're displayed. Please refer to [Custom attributes][section-mmd-attributes] section on the MultiMarkdown highlights chapter for more details.
+Due to **Byword**'s MultiMarkdown support you can even add custom attributes to your images, altering the way they're displayed. Please refer to Custom attributes section on the MultiMarkdown highlights chapter for more details.
 
 > **NOTE**  
 > Keep in mind that when dragging images to the text, **Byword** will introduce a reference to that file's location on your disk (noticeable by the `file:` prefix).
