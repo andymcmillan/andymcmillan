@@ -1,360 +1,105 @@
 /* HTML5 Elements */
-/* line 2, ../scss/_reset.scss */
-article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, main {
-  display: block;
-}
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, main { display: block; }
 
-/* line 3, ../scss/_reset.scss */
-audio[controls], canvas, video {
-  display: inline-block;
-  *display: inline;
-  *zoom: 1;
-}
+audio[controls], canvas, video { display: inline-block; *display: inline; *zoom: 1; }
 
 /* Eric Meyer's Reset CSS */
-/* line 19, ../scss/_reset.scss */
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary, main,
-time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, main, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
 
-/* line 28, ../scss/_reset.scss */
-body {
-  line-height: 1;
-}
+body { line-height: 1; }
 
-/* line 31, ../scss/_reset.scss */
-ol, ul {
-  list-style: none;
-}
+ol, ul { list-style: none; }
 
-/* line 34, ../scss/_reset.scss */
-blockquote, q {
-  quotes: none;
-}
+blockquote, q { quotes: none; }
 
-/* line 38, ../scss/_reset.scss */
-blockquote:before, blockquote:after,
-q:before, q:after {
-  content: '';
-  content: none;
-}
+blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
 
-/* line 42, ../scss/_reset.scss */
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
+table { border-collapse: collapse; border-spacing: 0; }
 
 /* HTML5 Boilerplate */
-/* line 49, ../scss/_reset.scss */
-html {
-  font-size: 100%;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-}
+html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
-/* line 55, ../scss/_reset.scss */
-a:focus {
-  outline: thin dotted;
-}
+a:focus { outline: thin dotted; }
 
-/* line 56, ../scss/_reset.scss */
-a:hover, a:active {
-  outline: 0;
-}
+a:hover, a:active { outline: 0; }
 
-/* line 58, ../scss/_reset.scss */
-abbr[title] {
-  border-bottom: 1px dotted;
-}
+abbr[title] { border-bottom: 1px dotted; }
 
-/* line 60, ../scss/_reset.scss */
-img {
-  border: 0;
-  -ms-interpolation-mode: bicubic;
-}
+img { border: 0; -ms-interpolation-mode: bicubic; }
 
 /* Correct overflow displayed oddly in IE9  */
-/* line 63, ../scss/_reset.scss */
-svg:not(:root) {
-  overflow: hidden;
-}
+svg:not(:root) { overflow: hidden; }
 
-/* line 65, ../scss/_reset.scss */
-label {
-  cursor: pointer;
-}
+label { cursor: pointer; }
 
-/* line 68, ../scss/_reset.scss */
-legend {
-  border: 0;
-  *margin-left: -7px;
-  padding: 0;
-}
+legend { border: 0; *margin-left: -7px; padding: 0; }
 
-/* line 69, ../scss/_reset.scss */
-button, input, select, textarea {
-  font-size: 100%;
-  margin: 0;
-  vertical-align: baseline;
-  *vertical-align: middle;
-}
+button, input, select, textarea { font-size: 100%; margin: 0; vertical-align: baseline; *vertical-align: middle; }
 
-/* line 70, ../scss/_reset.scss */
-button, input {
-  line-height: normal;
-  *overflow: visible;
-}
+button, input { line-height: normal; *overflow: visible; }
 
-/* line 71, ../scss/_reset.scss */
-button, input[type="button"], input[type="reset"], input[type="submit"] {
-  cursor: pointer;
-  -webkit-appearance: button;
-}
+button, input[type="button"], input[type="reset"], input[type="submit"] { cursor: pointer; -webkit-appearance: button; }
 
-/* line 72, ../scss/_reset.scss */
-input[type="checkbox"], input[type="radio"] {
-  box-sizing: border-box;
-}
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; }
 
-/* line 73, ../scss/_reset.scss */
-input[type="search"] {
-  -moz-box-sizing: content-box;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-}
+input[type="search"] { -moz-box-sizing: content-box; -webkit-box-sizing: content-box; box-sizing: content-box; }
 
-/* line 74, ../scss/_reset.scss */
-button::-moz-focus-inner, input::-moz-focus-inner {
-  border: 0;
-  padding: 0;
-}
+button::-moz-focus-inner, input::-moz-focus-inner { border: 0; padding: 0; }
 
-/* line 75, ../scss/_reset.scss */
-textarea {
-  overflow: auto;
-  vertical-align: top;
-}
+textarea { overflow: auto; vertical-align: top; }
 
-/* line 5, ../scss/_screen.scss */
-body.default {
-  border-top-color: #114a80;
-}
+body.default { border-top-color: #114a80; }
 
-/* line 10, ../scss/_screen.scss */
-.default h1, .default h2, .default h3 {
-  color: #114a80;
-}
-/* line 12, ../scss/_screen.scss */
-.default a {
-  color: #114a80;
-  border-bottom-color: rgba(17, 74, 128, 0.25);
-}
+.default h1, .default h2, .default h3 { color: #114a80; }
+.default a { color: #114a80; border-bottom-color: rgba(17, 74, 128, 0.25); }
 
-/* line 5, ../scss/_screen.scss */
-body.jam {
-  border-top-color: #76cc1e;
-}
+body.jam { border-top-color: #76cc1e; }
 
-/* line 10, ../scss/_screen.scss */
-.jam h1, .jam h2, .jam h3 {
-  color: #76cc1e;
-}
-/* line 12, ../scss/_screen.scss */
-.jam a {
-  color: #76cc1e;
-  border-bottom-color: rgba(118, 204, 30, 0.25);
-}
+.jam h1, .jam h2, .jam h3 { color: #76cc1e; }
+.jam a { color: #76cc1e; border-bottom-color: rgba(118, 204, 30, 0.25); }
 
-/* line 24, ../scss/_screen.scss */
-html {
-  background: white;
-}
+html { background: white; }
 
-/* line 28, ../scss/_screen.scss */
-body {
-  padding: 10% 5%;
-  background: white;
-  border-top: solid 0.4em transparent;
-  font-family: "colfax-web";
-  color: #555;
-  font-size: 15px;
-}
-@media screen and (min-width: 400px) {
-  /* line 28, ../scss/_screen.scss */
-  body {
-    font-size: 16px;
-  }
-}
-@media screen and (min-width: 650px) {
-  /* line 28, ../scss/_screen.scss */
-  body {
-    font-size: 17px;
-  }
-}
-@media screen and (min-width: 900px) {
-  /* line 28, ../scss/_screen.scss */
-  body {
-    font-size: 18px;
-  }
-}
-@media screen and (min-width: 1050px) {
-  /* line 28, ../scss/_screen.scss */
-  body {
-    font-size: 19px;
-  }
-}
-@media screen and (min-width: 1200px) {
-  /* line 28, ../scss/_screen.scss */
-  body {
-    font-size: 20px;
-  }
-}
-@media screen and (min-width: 1400px) {
-  /* line 28, ../scss/_screen.scss */
-  body {
-    font-size: 21px;
-  }
-}
-@media screen and (min-width: 1600px) {
-  /* line 28, ../scss/_screen.scss */
-  body {
-    font-size: 22px;
-  }
-}
+body { padding: 10% 5%; background: white; border-top: solid 0.4em transparent; font-family: "colfax-web"; color: #555; font-size: 15px; }
+@media screen and (min-width: 400px) { body { font-size: 16px; } }
+@media screen and (min-width: 650px) { body { font-size: 17px; } }
+@media screen and (min-width: 900px) { body { font-size: 18px; } }
+@media screen and (min-width: 1050px) { body { font-size: 19px; } }
+@media screen and (min-width: 1200px) { body { font-size: 20px; } }
+@media screen and (min-width: 1400px) { body { font-size: 21px; } }
+@media screen and (min-width: 1600px) { body { font-size: 22px; } }
 
-/* line 54, ../scss/_screen.scss */
-main {
-  margin: 0 auto;
-  max-width: 32em;
-}
+main { margin: 0 auto; max-width: 32em; }
 
-/* line 59, ../scss/_screen.scss */
-h1, h2, h3 {
-  line-height: 1.4;
-}
+h1, h2, h3 { line-height: 1.4; }
 
-/* line 63, ../scss/_screen.scss */
-li, p {
-  line-height: 1.6;
-}
-@media screen and (min-width: 400px) {
-  /* line 63, ../scss/_screen.scss */
-  li, p {
-    line-height: 1.65;
-  }
-}
-@media screen and (min-width: 650px) {
-  /* line 63, ../scss/_screen.scss */
-  li, p {
-    line-height: 1.7;
-  }
-}
-@media screen and (min-width: 900px) {
-  /* line 63, ../scss/_screen.scss */
-  li, p {
-    line-height: 1.8;
-  }
-}
+li, p { line-height: 1.6; }
+@media screen and (min-width: 400px) { li, p { line-height: 1.65; } }
+@media screen and (min-width: 650px) { li, p { line-height: 1.7; } }
+@media screen and (min-width: 900px) { li, p { line-height: 1.8; } }
 
-/* line 67, ../scss/_screen.scss */
-h1 {
-  font-size: 1.6em;
-  font-weight: 700;
-}
+h1 { font-size: 1.6em; font-weight: 700; }
 
-/* line 72, ../scss/_screen.scss */
-h2 {
-  font-size: 1.25em;
-  font-weight: 700;
-  margin-top: 2em;
-}
+h2 { font-size: 1.25em; font-weight: 700; margin-top: 2em; }
 
-/* line 78, ../scss/_screen.scss */
-h3 {
-  font-weight: 700;
-  margin-top: 2em;
-}
+h3 { font-weight: 700; margin-top: 2em; }
 
-/* line 83, ../scss/_screen.scss */
-hr {
-  border: none;
-  border-top: solid 0.15em #ddd;
-  margin: 2em 0;
-}
+hr { border: none; border-top: solid 0.15em #ddd; margin: 2em 0; }
 
-/* line 90, ../scss/_screen.scss */
-li strong, p strong {
-  font-weight: 700;
-}
-/* line 91, ../scss/_screen.scss */
-li em, p em {
-  font-style: italic;
-}
+li strong, p strong { font-weight: 700; }
+li em, p em { font-style: italic; }
 
-/* line 97, ../scss/_screen.scss */
-p,
-figure,
-main > ul,
-main > ol {
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
+p, figure, main > ul, main > ol { margin-top: 1em; margin-bottom: 1em; }
 
-/* line 102, ../scss/_screen.scss */
-a {
-  font-weight: 700;
-  text-decoration: none;
-  border-bottom: 0.15em solid transparent;
-}
-/* line 107, ../scss/_screen.scss */
-a:hover {
-  color: #000000;
-  border-bottom-color: #000000;
-}
+a { font-weight: 700; text-decoration: none; border-bottom: 0.15em solid transparent; }
+a:hover { color: #000000; border-bottom-color: #000000; }
 
-/* line 113, ../scss/_screen.scss */
-img {
-  display: block;
-  max-width: 100%;
-  margin: 1em auto;
-}
+img { display: block; max-width: 100%; margin: 1em auto; }
 
-/* line 120, ../scss/_screen.scss */
-blockquote {
-  border-left: 0.15em solid #DDDDDD;
-  padding-left: 1em;
-  color: #999;
-}
+blockquote { border-left: 0.15em solid #DDDDDD; padding-left: 1em; color: #999; }
 
-/* line 126, ../scss/_screen.scss */
-ul, ol {
-  padding-left: 1.4em;
-}
+ul, ol { padding-left: 1.4em; }
 
-/* line 130, ../scss/_screen.scss */
-ul {
-  list-style-type: square;
-}
+ul { list-style-type: square; }
 
-/* line 134, ../scss/_screen.scss */
-ol {
-  list-style-type: decimal;
-}
+ol { list-style-type: decimal; }
