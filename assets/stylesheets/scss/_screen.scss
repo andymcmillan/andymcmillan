@@ -1,4 +1,4 @@
-$accent-colors: (('default', #114A80), ('jam', #76cc1e));
+$accent-colors: ((default, #114A80), (jam, #76cc1e));
 
 @mixin accent-color($name, $color) {
 
