@@ -24,9 +24,9 @@ This one was custom built to my specification, delivered to Belfast, and never u
 * Vittoria Randonneur puncture resistant city tires
 * French Mavic rims, Formula hubs, and DT spokes (silver)
 
-## Price
+## Delivery
 
 The bicycle is available for collection in Belfast, or alternatively can be shipped anywhere in the world at your request. All costs of postage and packaging are exclusive of the sale price.
 
-## £650 (ono)
-Email [andy@goodonpaper.com](mailto:andy@goodonpaper.com). Serious offers only.
+## Price
+£650 (ono). Interested? Email [andy@goodonpaper.com](mailto:andy@goodonpaper.com). Serious offers only.
