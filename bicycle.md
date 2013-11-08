@@ -1,6 +1,6 @@
 ---
 layout: default
-title: For sale: Custom fixed gear Mission Bicycle  
+title: Custom fixed gear Mission Bicycle  
 accent: jam
 ---
 
