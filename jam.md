@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Belfast Kickstarter Project Jam
+title: Good On Paper · Belfast Kickstarter Project Jam
 accent: jam
 ---
 
