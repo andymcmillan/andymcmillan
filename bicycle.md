@@ -4,7 +4,7 @@ title: Byword MultiMarkdown Guide
 accent: jam
 ---
 
-For sale: Custom built fixed gear Mission Bicycle
+# For sale: Custom built fixed gear Mission Bicycle
 
 ![Alt text](http://farm9.staticflickr.com/8150/7532127978_e46ce1e144_c.jpg "Optional title")
 
