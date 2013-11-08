@@ -2,4 +2,4 @@ name:     Good On Paper
 markdown: redcarpet
 pygments: true
 include:  ['.htaccess']
-exclude:  ['CNAME', 'scss', '*.sh']
+exclude:  ['scss', '*.sh', 'README.md']
