@@ -8,7 +8,9 @@ accent: jam
 
 ![Grey fixed gear Mission Bicycle](http://farm9.staticflickr.com/8150/7532127978_e46ce1e144_c.jpg "Grey fixed gear Mission Bicycle")
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+> Mission Bicycles are made of steel, weigh less than twenty pounds, and are built to last a lifetime. Each one is custom built, part by part, in San Francisco, California. 
+
+This one was custom built to my specification, delivered to Belfast, and never used (because I am an idiot).
 
 ## Specification
 
@@ -24,6 +26,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Price
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+The bicycle is available for collection in Belfast, or alternatively can be shipped anywhere in the world at your request. All costs of postage and packaging are exclusive of the sale price.
 
 ## £650 (ono)
