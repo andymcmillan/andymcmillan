@@ -37,3 +37,8 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * [http://belfastjs.org/](http://belfastjs.org/)
 * [https://twitter.com/belfastjs](https://twitter.com/belfastjs)
 * Organiser: ???
+* 
+## Friday Night Mashup
+* [http://www.fridaynightmashup.com/](http://www.fridaynightmashup.com/)
+* [https://twitter.com/FNMashup](https://twitter.com/FNMashup)
+* Organisers: Aaron Taylor ([@imaarontaylor](https://twitter.com/imaarontaylor)), Geoff McGimpsey ([@geoffmcgimpsey](https://twitter.com/geoffmcgimpsey)), John Ferguson ([@JohnVenuebooker](https://twitter.com/JohnVenuebooker)), Catherine Morris ([@cittiecait](https://twitter.com/cittiecait)), Herman Chan ([@hermiechan](https://twitter.com/hermiechan)), Graham Moucka ([@mouckatron](https://twitter.com/mouckatron)), Caroline Smith ([@carolinepixels](https://twitter.com/carolinepixels)), Katie McQuillan ([@katiemcquillan](https://twitter.com/katiemcquillan)).
