@@ -19,6 +19,10 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * Twitter: [https://twitter.com/uxbelfast](https://twitter.com/uxbelfast)
 * Organiser(s): Various
 
+### Toody Threedy Belfast
+* Website: [https://www.facebook.com/groups/2d3dbelfast/](https://www.facebook.com/groups/2d3dbelfast/)
+* Organiser(s): ???
+
 ## Development
 
 ### Mobile Monday
