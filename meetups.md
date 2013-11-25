@@ -60,4 +60,4 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 ### Friday Night Mashup
 * [http://www.fridaynightmashup.com/](http://www.fridaynightmashup.com/)
 * [https://twitter.com/FNMashup](https://twitter.com/FNMashup)
-* Organiser(s): Aaron Taylor, Geoff McGimpsey, John Ferguson, Catherine Morris, Herman Chan, Graham Moucka , Caroline Smith, Katie McQuillan ([http://www.fridaynightmashup.com/#the-team](http://www.fridaynightmashup.com/#the-team)).
+* Organiser(s): Aaron Taylor, Geoff McGimpsey, John Ferguson, Catherine Morris, Herman Chan, Graham Moucka , Caroline Smith, Katie McQuillan
