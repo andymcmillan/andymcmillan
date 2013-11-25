@@ -31,7 +31,7 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 ## PHP Belfast
 * [http://phpbelfast.com/](http://phpbelfast.com/)
 * [https://twitter.com/phpbelfast](https://twitter.com/phpbelfast)
-* Organiser: ???
+* Organiser: Tim Swann ([@faffyman](https://twitter.com/faffyman))
 
 ## BelfastJS
 * [http://belfastjs.org/](http://belfastjs.org/)
