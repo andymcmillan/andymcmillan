@@ -31,8 +31,6 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * [http://womenwhocode.co.uk/](http://womenwhocode.co.uk/)
 * [https://twitter.com/WomenWhoCode](https://twitter.com/WomenWhoCode)
 * Organiser: Sheree Atcheson ([@nirushika](https://twitter.com/nirushika))
- 
-# Language-specific
 
 ## Belfast Ruby
 * [http://belfastruby.com/](http://belfastruby.com/)
