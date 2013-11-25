@@ -58,6 +58,11 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 ### PyBelfast
 * Twitter: [https://twitter.com/PyBelfast](https://twitter.com/PyBelfast)
 * Organiser(s): Paddy Carey ([@paddycarey](https://twitter.com/paddycarey))
+ 
+### Belfast R Users
+* Website: [http://brusers.tumblr.com/](http://brusers.tumblr.com/)
+* Twitter: [https://twitter.com/BelfastRUsers](https://twitter.com/BelfastRUsers)
+* Organiser(s): ???
 
 ## Startup / Entrepreneurial
 
