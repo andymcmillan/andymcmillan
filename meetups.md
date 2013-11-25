@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Good On Paper · Tech Meetups in Belfast
-accent: jam
+accent: default
 ---
 
 # Tech Meetups in Belfast
 
 Refresh Belfast
-http://refreshbelfast.com/
-https://twitter.com/refreshbelfast
+[http://refreshbelfast.com/](http://refreshbelfast.com/)
+[https://twitter.com/refreshbelfast](https://twitter.com/refreshbelfast)
 Organiser: Andy McMillan ([@andymcmillan](https://twitter.com/andymcmillan))
 
 Bash!
