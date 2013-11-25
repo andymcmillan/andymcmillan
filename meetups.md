@@ -10,7 +10,7 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 
 ## Design
 
-* **Refresh Belfast**
+### Refresh Belfast
 * [http://refreshbelfast.com/](http://refreshbelfast.com/)
 * [https://twitter.com/refreshbelfast](https://twitter.com/refreshbelfast)
 * Organiser(s): Andy McMillan ([@andymcmillan](https://twitter.com/andymcmillan))
