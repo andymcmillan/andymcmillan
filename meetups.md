@@ -6,10 +6,10 @@ accent: default
 
 # Tech Meetups in Belfast
 
-Refresh Belfast
-[http://refreshbelfast.com/](http://refreshbelfast.com/)
-[https://twitter.com/refreshbelfast](https://twitter.com/refreshbelfast)
-Organiser: Andy McMillan ([@andymcmillan](https://twitter.com/andymcmillan))
+## Refresh Belfast
+* [http://refreshbelfast.com/](http://refreshbelfast.com/)
+* [https://twitter.com/refreshbelfast](https://twitter.com/refreshbelfast)
+* Organiser: Andy McMillan ([@andymcmillan](https://twitter.com/andymcmillan))
 
 Bash!
 http://bash.ie/
