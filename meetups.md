@@ -12,6 +12,15 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * [http://refreshbelfast.com/](http://refreshbelfast.com/)
 * [https://twitter.com/refreshbelfast](https://twitter.com/refreshbelfast)
 * Organiser: Andy McMillan ([@andymcmillan](https://twitter.com/andymcmillan))
+ 
+## UX Bookclub Belfast
+* [https://twitter.com/uxbelfast](https://twitter.com/uxbelfast)
+* Organiser: Various
+
+## Friday Night Mashup
+* [http://www.fridaynightmashup.com/](http://www.fridaynightmashup.com/)
+* [https://twitter.com/FNMashup](https://twitter.com/FNMashup)
+* Organisers: Aaron Taylor, Geoff McGimpsey, John Ferguson, Catherine Morris, Herman Chan, Graham Moucka , Caroline Smith, Katie McQuillan ([http://www.fridaynightmashup.com/#the-team](http://www.fridaynightmashup.com/#the-team)).
 
 ## Bash!
 * [http://bash.ie/](http://bash.ie/)
@@ -22,6 +31,8 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * [http://womenwhocode.co.uk/](http://womenwhocode.co.uk/)
 * [https://twitter.com/WomenWhoCode](https://twitter.com/WomenWhoCode)
 * Organiser: Sheree Atcheson ([@nirushika](https://twitter.com/nirushika))
+ 
+# Language-specific
 
 ## Belfast Ruby
 * [http://belfastruby.com/](http://belfastruby.com/)
@@ -37,8 +48,7 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * [http://belfastjs.org/](http://belfastjs.org/)
 * [https://twitter.com/belfastjs](https://twitter.com/belfastjs)
 * Organiser: ???
-* 
-## Friday Night Mashup
-* [http://www.fridaynightmashup.com/](http://www.fridaynightmashup.com/)
-* [https://twitter.com/FNMashup](https://twitter.com/FNMashup)
-* Organisers: Aaron Taylor ([@imaarontaylor](https://twitter.com/imaarontaylor)), Geoff McGimpsey ([@geoffmcgimpsey](https://twitter.com/geoffmcgimpsey)), John Ferguson ([@JohnVenuebooker](https://twitter.com/JohnVenuebooker)), Catherine Morris ([@cittiecait](https://twitter.com/cittiecait)), Herman Chan ([@hermiechan](https://twitter.com/hermiechan)), Graham Moucka ([@mouckatron](https://twitter.com/mouckatron)), Caroline Smith ([@carolinepixels](https://twitter.com/carolinepixels)), Katie McQuillan ([@katiemcquillan](https://twitter.com/katiemcquillan)).
+ 
+## PyBelfast
+* [https://twitter.com/PyBelfast](https://twitter.com/PyBelfast)
+* Organiser: ???
