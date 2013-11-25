@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Good On Paper · Tech Meetups in Belfast
+title: Good On Paper · Meetups in Belfast
 accent: default
 ---
 
-# Tech Meetups in Belfast
+# Meetups in Belfast
 
-My attempt at a comprehensive list of meetups for the tech, designer, and developer communities in Belfast, Northern Ireland. Something missing? Let me know via [email](mailto:andy@goodonpaper.com) or [Twitter](https://twitter.com/andymcmillan).
+My attempt at a comprehensive list of meetups for the tech, design, and development communities in Belfast, Northern Ireland. Can you help me fill in the blanks? Notice something missing? Let me know via [email](mailto:andy@goodonpaper.com) or [Twitter](https://twitter.com/andymcmillan).
 
 ## Refresh Belfast
 * [http://refreshbelfast.com/](http://refreshbelfast.com/)
