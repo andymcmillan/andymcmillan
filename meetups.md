@@ -14,7 +14,12 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * Website: [http://refreshbelfast.com/](http://refreshbelfast.com/)
 * Twitter: [https://twitter.com/refreshbelfast](https://twitter.com/refreshbelfast)
 * Organiser(s): Andy McMillan ([@andymcmillan](https://twitter.com/andymcmillan))
- 
+
+### NI Design Alliance - Anatomy of Design Series
+* Website: [http://www.nidesignalliance.com/events/](http://www.nidesignalliance.com/events/)
+* Twitter: [https://twitter.com/gooddesignni](https://twitter.com/gooddesignni)
+* Organiser(s): Various
+
 ### UX Bookclub Belfast
 * Twitter: [https://twitter.com/uxbelfast](https://twitter.com/uxbelfast)
 * Organiser(s): Various
@@ -37,7 +42,7 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 
 ### Women Who Code
 * Website: [http://womenwhocode.co.uk/](http://womenwhocode.co.uk/)
-* Twitter: [https://twitter.com/WomenWhoCode](https://twitter.com/WomenWhoCode)
+* Twitter: [https://twitter.com/WWCBelfast](https://twitter.com/WWCBelfast)
 * Organiser(s): Sheree Atcheson ([@nirushika](https://twitter.com/nirushika))
 
 ### Belfast Ruby
