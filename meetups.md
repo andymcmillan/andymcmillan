@@ -15,7 +15,7 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * Twitter: [https://twitter.com/refreshbelfast](https://twitter.com/refreshbelfast)
 * Organiser(s): Andy McMillan ([@andymcmillan](https://twitter.com/andymcmillan))
 
-### NI Design Alliance - Anatomy of Design Series
+### NI Design Alliance - Anatomy of Design lecture series
 * Website: [http://www.nidesignalliance.com/events/](http://www.nidesignalliance.com/events/)
 * Twitter: [https://twitter.com/gooddesignni](https://twitter.com/gooddesignni)
 * Organiser(s): Various
