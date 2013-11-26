@@ -71,7 +71,7 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * Twitter: [https://twitter.com/FNMashup](https://twitter.com/FNMashup)
 * Organiser(s): Aaron Taylor, Geoff McGimpsey, John Ferguson, Catherine Morris, Herman Chan, Graham Moucka , Caroline Smith, Katie McQuillan
 
-## Feedback Friday
+### Feedback Friday
 * Organiser(s): Chris Armstrong ([@armstrong](https://twitter.com/armstrong))
 
 ### Get Together
