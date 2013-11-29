@@ -77,6 +77,7 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * Organiser(s): Aaron Taylor, Geoff McGimpsey, John Ferguson, Catherine Morris, Herman Chan, Graham Moucka , Caroline Smith, Katie McQuillan
 
 ### Feedback Friday
+* Twitter: [https://twitter.com/Feedback_Friday](https://twitter.com/Feedback_Friday)
 * Organiser(s): Chris Armstrong ([@armstrong](https://twitter.com/armstrong))
 
 ### Get Together
