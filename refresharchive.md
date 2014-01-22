@@ -6,13 +6,13 @@ accent: default
 
 # Refresh Belfast Archive
 
-A full list of every presentation and speaker in the 5 year run of Refresh Belfast
+A full list of every presentation and speaker in the 5 year run of Refresh Belfast.
 
 ## 2009
 
 ### Monday 20th April
-* Developer-fu & Mad Productivity Skills for Designers
-* David Rice
+#### Developer-fu & Mad Productivity Skills for Designers
+David Rice
 
 ### Monday 18th May
 Designing With Visual Language
