@@ -11,21 +11,16 @@ A full list of every presentation and speaker in the 5 year run of Refresh Belfa
 ## 2009
 
 ### Monday 20th April
-#### Developer-fu & Mad Productivity Skills for Designers
-David Rice
+* Developer-fu & Mad Productivity Skills for Designers — David Rice
 
 ### Monday 18th May
-Designing With Visual Language
-Jamie Neely
-
-Be Where People Are
-Paul McKeever
+* Designing With Visual Language — Jamie Neely
+* Be Where People Are — Paul McKeever
 
 ### Monday 15th June
-What is Responsible Design and Should I Care?
+* What is Responsible Design and Should I Care? — Peter Kerr, Heather Kerr & Karys Wilson
 
-How to Tell Authentic Stories that People Enjoy Telling Other People
-Peter Kerr, Heather Kerr & Karys Wilson
+* How to Tell Authentic Stories that People Enjoy Telling Other People — Peter Kerr, Heather Kerr & Karys Wilson
 
 ### Monday 17th August
 7 Perspectives on iPhone Development & Design
