@@ -13,7 +13,7 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 ### Refresh Belfast
 * Website: [http://refreshbelfast.com/](http://refreshbelfast.com/)
 * Twitter: [https://twitter.com/refreshbelfast](https://twitter.com/refreshbelfast)
-* Organiser(s): Andy McMillan ([@andymcmillan](https://twitter.com/andymcmillan))
+* Organiser(s): Chris Murphy ([@fehler](https://twitter.com/fehler)), Tim Potter ([@tejpotter](https://twitter.com/tejpotter)).
 
 ### NI Design Alliance - Anatomy of Design lecture series
 * Website: [http://www.nidesignalliance.com/events/](http://www.nidesignalliance.com/events/)
