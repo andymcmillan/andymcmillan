@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Good On Paper · Office To Let
-accent: default
+accent: office
 ---
 
 # Office To Let
