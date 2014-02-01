@@ -1,4 +1,5 @@
-$accent-colors: ((default, #114A80), (jam, #76cc1e), (bike, #CA5D25));
+$accent-colors: ((default, #114A80), (office, #8A8F85), (bicycle, #CA5D25), (meetups, #B72E06), (refresh, #18A949), (permanent, #5AB5C4));
+
 
 @mixin accent-color($name, $color) {
 
