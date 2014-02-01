@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Good On Paper · Meetups in Belfast
-accent: default
+accent: meetups
 ---
 
 # Meetups in Belfast
