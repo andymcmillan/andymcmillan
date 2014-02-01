@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Good On Paper · Refresh Belfast Archive
+title: Good On Paper · Refresh Belfast
 accent: default
 ---
 
-# Refresh Belfast Archive
+# Refresh Belfast 
 
-A full list of every presentation and speaker in the 5 year run of Refresh Belfast.
+A complete list of every talk / speaker in the 5 year run of my organising [Refresh Belfast](http://refreshbelfast.com). As of January 2014, Refresh is in the hands of [Christopher Murphy](http://monographic.org/) and [Tim Potter](http://tejpotter.com/).
 
 ## 2009
 
@@ -83,21 +83,13 @@ University of Ulster IMD MFA Night — Kyle Gawley, Pauline Clancy, Jonny Hall &
 ## 2013
 
 ### Monday 18th February
-Talk title missing — Simon Mills
+Simon Mills
 
 ### Monday 22nd April
-Talk title missing — Pete Kerr
+Pete Kerr
 
 ### Monday 17th June
-Talk title missing — Tim Potter & Gabriel Muldoon
+Tim Potter & Gabriel Muldoon
 
 ### Monday 19th August
-Talk title missing — Coby Chapple
-
-## 2014
-
-### Monday 17th February
-TBC
-
-### Monday 21st April
-TBC (5th Birthday)
+Coby Chapple
