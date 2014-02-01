@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Photos
 
-![Office with desk and cupboards](http://f.cl.ly/items/3H3t2R440n0d26462C2P/2012-08-23-14.18.35.png “Office with desk and cupboards”)
+![Office with desk and cupboards](http://f.cl.ly/items/3H3t2R440n0d26462C2P/2012-08-23-14.18.35.png "Office with desk and cupboards")
 
 ## Price
 £700 (ono). Interested? Email [andy@goodonpaper.com](mailto:andy@goodonpaper.com). Serious offers only, please.
