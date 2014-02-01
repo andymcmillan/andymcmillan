@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Good On Paper · Refresh Belfast
-accent: default
+accent: refresh
 ---
 
 # Refresh Belfast 
