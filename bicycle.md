@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Good On Paper · Bicycle For Sale 
-accent: bike
+accent: bicycle
 ---
 
 # Bicycle For Sale
