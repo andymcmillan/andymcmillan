@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Good On Paper · Bicycle 
+title: Good On Paper · Bicycle For Sale 
 accent: bike
 ---
 
-# For sale: Custom-built single speed Mission Bicycle (as new)
+# Bicycle For Sale
 
 ![Grey fixed gear Mission Bicycle](http://farm9.staticflickr.com/8150/7532127978_e46ce1e144_c.jpg "Grey fixed gear Mission Bicycle")
+
+I’m selling my custom-built, single speed Mission Bicycle.
 
 > Mission Bicycles are made of steel, weigh less than twenty pounds, and are built to last a lifetime. Each one is custom built, part by part, in San Francisco, California. 
 
