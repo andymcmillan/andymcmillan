@@ -6,7 +6,9 @@ accent: default
 
 # Refresh Belfast 
 
-A complete list of every talk / speaker in the 5 year run of my organising [Refresh Belfast](http://refreshbelfast.com). As of January 2014, Refresh is in the hands of [Christopher Murphy](http://monographic.org/) and [Tim Potter](http://tejpotter.com/).
+A complete list of every talk / speaker in the 5 year run of my organising [Refresh Belfast](http://refreshbelfast.com). 
+
+As of January 2014, Refresh is in the hands of [Christopher Murphy](http://monographic.org/) and [Tim Potter](http://tejpotter.com/).
 
 ## 2009
 
