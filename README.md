@@ -43,6 +43,8 @@ You can make Grunt automatically rebuild the site when changes are made:
 grunt watch
 ```
 
+You can Grunt’s watch mode with `ctrl + C`.
+
 _(Note: Rebuilding the site isn’t immediate, as Jekyll takes some time.)_
 
 # Templating
