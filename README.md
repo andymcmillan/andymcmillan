@@ -34,8 +34,15 @@ To build the site, just run `grunt`.
 
 To preview the site locally:
 
-1. Point your local MAMP installation to the `_site` folder.
-2. Make Grunt automatically rebuild the site when changes are made, with `grunt watch`
+1. Point your local MAMP installation at the `_site` directory.
+2. Open the browser at MAMP’s URL, usually `http://localhost:8888`.
+
+To avoid having to constantly do `grunt`, you can make Grunt automatically rebuild the site when changes are made.
+```
+grunt watch
+```
+
+_(Note: Rebuilding the site isn’t immediate, as Jekyll takes some time. It’ll be done Grunt outputs `Done, without errors.` in the terminal.)_
 
 ## Templating
 
