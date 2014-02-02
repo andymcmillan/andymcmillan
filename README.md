@@ -1,5 +1,42 @@
 # Guide
 
+## Installation
+
+A few things are required to develop the site:
+
+1. Node.js (and NPM)
+2. Grunt CLI (command line interface), as a Node.js module
+3. Sass and Jekyll, as Ruby Gems.
+4. All the Grunt plugins listed on `package.json`.
+
+However, this project is set up so you only have to install Node.js + NPM, and when installing the dependencies listed on `package.json`, the rest will be installed for you.
+
+First, install [Homebrew](http://brew.sh).
+```
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+```
+
+Then, install Node.js via Homebrew. NPM, Node’s package mananger, will also be installed.
+```
+brew install node
+```
+
+Finally, install all the project dependencies.
+```
+npm install
+```
+
+This last command will install everything for you, including Grunt’s CLI, Sass and Jekyll.
+
+## Building and Previewing
+
+To build the site, just run `grunt`.
+
+To preview the site locally:
+
+1. Point your local MAMP installation to the `_site` folder.
+2. Make Grunt automatically rebuild the site when changes are made, with `grunt watch`
+
 ## Templating
 
 New pages and posts need to specify the `layout` they use in the file's [front-matter](http://jekyllrb.com/docs/frontmatter/). Other properties may be defined, like `title`, used in the page's `<title>`:
