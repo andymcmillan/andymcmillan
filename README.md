@@ -1,6 +1,4 @@
-# Guide
-
-## Installation
+# Installation
 
 A few things are required to develop the site:
 
@@ -28,7 +26,7 @@ npm install
 
 This last command will install everything for you, including Grunt’s CLI, Sass and Jekyll.
 
-## Building and Previewing
+# Building and Previewing
 
 To build the site, run Grunt:
 ```
@@ -47,7 +45,7 @@ grunt watch
 
 _(Note: Rebuilding the site isn’t immediate, as Jekyll takes some time.)_
 
-## Templating
+# Templating
 
 New pages and posts need to specify the `layout` they use in the file's [front-matter](http://jekyllrb.com/docs/frontmatter/). Other properties may be defined, like `title`, used in the page's `<title>`:
 
@@ -56,7 +54,7 @@ New pages and posts need to specify the `layout` they use in the file's [front-m
     title: Hello World
     ---
 
-## Accent Colors
+# Accent Colors
 
 To use custom colors on a page, it needs to specify an `accent` class on the front-matter:
 
