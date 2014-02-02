@@ -1,0 +1,19 @@
+{
+  "name": "andymcmillan.github.io",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andymcmillan/andymcmillan.github.io.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "matchdep": "~0.3.0",
+    "grunt-contrib-sass": "~0.7.2",
+    "grunt-contrib-cssmin": "~0.7.0",
+    "grunt-jekyll": "~0.4.1"
+  },
+  "scripts": {
+    "preinstall":   "npm install -g grunt-cli",
+    "postinstall":  "gem install sass jekyll --conservative"
+  }
+}
