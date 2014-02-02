@@ -7,17 +7,15 @@ module.exports = function(grunt) {
   // Project configuration.
   grunt.initConfig({
     
-    // Metadata.
+    // Read Metadata
     pkg: grunt.file.readJSON('package.json'),
     
     // CSS:
     // * Sass
     // * Minify
     sass: {
-      dev: {
-        options: {
-          style:      'expanded'
-        },
+      dist: {
+        options: { style: 'expanded' },
         files: [
           {
             expand: true,
@@ -31,18 +29,35 @@ module.exports = function(grunt) {
     },
 
     cssmin: {
-      minify: {
+      dist: {
         expand: true,
         cwd:  'assets/css/build/',
         src:  ['*.css', '!*.min.css'],
         dest: 'assets/css/build/',
         ext:  '.min.css'
       }
+    },
+
+    // Jekyll
+    jekyll: {
+      dist:   { options: { drafts: true } }
+    },
+
+    // Watch
+    watch: {
+      css: {
+        files: 'assets/css/src/**/*',
+        tasks: ['sass', 'cssmin'],
+      },
+      jekyll: {
+        files: ["*.{yml,md,html,xml}", "*/**", "!{_site,node_modules}/**/*"],
+        tasks: ['jekyll'],
+      }
     }
 
   });
 
   // Default task.
-  grunt.registerTask('default', ['sass', 'cssmin']);
+  grunt.registerTask('default', ['sass', 'cssmin', 'jekyll']);
 
 };
