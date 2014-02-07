@@ -14,11 +14,16 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Refurbishment
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-## Furniture
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. The office also comes with a single Herman Miller Mirra chair, and 3 white Eames Plastic Side Chairs.
+* Desk
+* Cupboards
+* Kitchen
+* Bathroom refurbished with new floor, new fixtures, and custom sink / utility cupboard unit.
+* Walls plastered and repainted, including installation of 5x3m whiteboard wall.
+* New filament bulb light rig fitted above the desk, pendant light in reception area, and additional wall lights installed.
+* Fitted with additional electrical outlets at floor level, 2 outlets and cable management inside each cupboard, and 4 extra outlets by kitchen.
+* Blackout blinds custom fitted to all 4 windows.
 
 ## Price
 
