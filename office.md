@@ -27,4 +27,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 * Service charge: TBC
 * Furniture: TBC
 
-Interested? Email [andy@goodonpaper.com](mailto:andy@goodonpaper.com).
+Available March 1st. Interested? Email [andy@goodonpaper.com](mailto:andy@goodonpaper.com).
