@@ -18,13 +18,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Furniture
 
-The office also comes with a single Herman Miller Mirra chair, and 3 Vitra / Eames Plastic Side Chairs.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. The office also comes with a single Herman Miller Mirra chair, and 3 white Eames Plastic Side Chairs.
 
 ## Price
 
-Rent: £170 (inc. VAT) per month
-Rates: £141.24 (inc. VAT) per month
-Service charge:
-Furniture:
+* Rent: £170 (inc. VAT) per month
+* Rates: £141.24 (inc. VAT) per month
+* Service charge: TBC
+* Furniture: TBC
 
 Interested? Email [andy@goodonpaper.com](mailto:andy@goodonpaper.com).
