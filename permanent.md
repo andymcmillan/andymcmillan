@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Good On Paper · Permanent Records 
-accent: xoxo
+accent: permanent
 ---
 
 # Permanent Records
