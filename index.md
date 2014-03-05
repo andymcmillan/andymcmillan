@@ -3,4 +3,8 @@ layout: default
 title: Good On Paper
 ---
 
-> “For a moment, nothing happened. Then, after a second or so, nothing continued to happen.”
+# Hi, I’m Andy.
+
+I’m still figuring out what should go here.
+
+In the meantime, you can reach me via [email](mailto:andy@goodonpaper.com) or [Twitter](http://twitter.com/andymcmillan).
