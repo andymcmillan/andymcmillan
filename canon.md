@@ -11,7 +11,7 @@ The intention is for this to be constantly edited, with sources coming and going
 
 # Writing
 
-* Still collecting.
+* [The Inferno of Independence](http://frankchimero.com/blog/the-inferno-of-independence/), by Frank Chimero
 
 # Talks
 
