@@ -14,6 +14,7 @@ Inspired by [David Cole](http://davidcole.me/), this is the beginnings of my per
 # Talks
 
 * [Wilson Miner - When We Build](https://vimeo.com/34017777) (Build 2011)
+* [Ira Glass on Storytelling](http://numerocinqmagazine.com/2011/05/13/what-nobody-tells-beginners-ira-glass-on-storytelling/)
 
 # Music
 
