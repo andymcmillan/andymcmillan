@@ -5,4 +5,20 @@ title: Good On Paper
 
 # Canon
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Inspired by [David Cole](http://davidcole.me/), this is the beginnings of my personal canon; materials and media that have influenced my thinking and that I wish to refer back to regularly for guidance.
+
+# Writing
+
+* Still collecting.
+
+# Talks
+
+* [Wilson Miner - When We Build](https://vimeo.com/34017777) (Build 2011)
+
+# Music
+
+* Still collecting.
+
+# Film
+
+* Still collecting.
