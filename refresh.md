@@ -62,46 +62,46 @@ The Art of Freelancing — Eoghan McCabe
 
 ### Monday 22nd August
 Collective History — Sam Bell
-* Video: not confirmed
+Video: not confirmed
 
 
 ## 2012
 
 ### Monday 20th February
 There's More Than One Way to Design a Cat — Richard Weston & Rick Monro
-* Video: http://www.youtube.com/watch?v=F_ui8oXUCAM
+Video: http://www.youtube.com/watch?v=F_ui8oXUCAM
 
 ### Monday 16th April
 Talk title missing — Chris McClelland
-* Video: confirmed, coming soon (missing slides)
+Video: confirmed, coming soon (missing slides)
 
 ### Monday 20th August
 Rewire Everything — Robert Stringer
-* Video: http://www.youtube.com/watch?v=zMKDXYLPv90
+Video: http://www.youtube.com/watch?v=zMKDXYLPv90
 
 ### Monday 22nd October
 University of Ulster IMD MFA Night — Kyle Gawley, Pauline Clancy, Jonny Hall & David Turner 
-* Video: http://www.youtube.com/watch?v=6ZjTRls9zNE
+Video: http://www.youtube.com/watch?v=6ZjTRls9zNE
 
 ### Monday 17th December
 12 Days of Christmas — Rick Monro, Peter Kerr, Richard Weston, Pauline Clancy, Jonny Campbell, Tommy Palmer, Chris Armstrong, Robert Stringer, Pauline Clancy, Chris McClelland, Darcie Graham, Danny Turley & David Hughes.
-* Video: confirmed, coming soon (missing slides from all but Pete, Richard, and Robert)
+Video: confirmed, coming soon (missing slides from all but Pete, Richard, and Robert)
 
 
 ## 2013
 
 ### Monday 18th February
 Simon Mills
-* Video: not confirmed
+#### Video: not confirmed
 
 ### Monday 22nd April
 Pete Kerr
-* Video: http://www.youtube.com/watch?v=g_VX8JCYcfs
+#### Video: http://www.youtube.com/watch?v=g_VX8JCYcfs
 
 ### Monday 17th June
 Tim Potter & Gabriel Muldoon
-* Video: not confirmed
+#### Video: not confirmed
 
 ### Monday 19th August
 Coby Chapple
-* Video: not confirmed
+#### Video: not confirmed
