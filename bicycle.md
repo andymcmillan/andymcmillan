@@ -31,4 +31,4 @@ This one was custom built to my specification, delivered to Belfast, and never u
 The bicycle is available for collection in Belfast, or alternatively can be shipped anywhere in the world at your request. All costs of postage and packaging are exclusive of the sale price.
 
 ## Price
-£700 (ono). Interested? Email [andy@goodonpaper.com](mailto:andy@goodonpaper.com). Serious offers only, please.
+£650 (ono). Interested? Email [andy@goodonpaper.com](mailto:andy@goodonpaper.com). Serious offers only, please.
