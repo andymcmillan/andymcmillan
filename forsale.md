@@ -11,4 +11,4 @@ I’m currently clearing out my apartment and my studio, and am selling off a fe
 I had a beautiful single-speed bicycle custom built by Mission Bicycle in August 2012. It has sat in my studio, basically unused, since clearing customs. You can [check out the specification](http://goodonpaper.com/bicycle), or [email me](mailto:andy@goodonpaper.com) if you’re interested.
 
 ## I’m selling my cinema display.
-I bought a 27” Apple Cinema Display (Thunderbolt model) for my studio at the start of last year. It’s been well looked after since, not a dent or scratch. RRP £899, all yours for £500 (ono), [email me](mailto:andy@goodonpaper.com) if you’re interested. Oh, it’s in it’s original box too.
+(*Update: sold!*) I bought a 27” Apple Cinema Display (Thunderbolt model) for my studio at the start of last year. It’s been well looked after since, not a dent or scratch. RRP £899, all yours for £500 (ono), [email me](mailto:andy@goodonpaper.com) if you’re interested. Oh, it’s in it’s original box too.
