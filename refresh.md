@@ -92,7 +92,7 @@ University of Ulster IMD MFA Night — Kyle Gawley, Pauline Clancy, Jonny Hall &
 
 ### Monday 18th February
 Simon Mills
-#### Video: not confirmed
+#### Video: [http://youtu.be/wvUmu308B7c](http://youtu.be/wvUmu308B7c)
 
 ### Monday 22nd April
 Pete Kerr
@@ -100,8 +100,8 @@ Pete Kerr
 
 ### Monday 17th June
 Tim Potter & Gabriel Muldoon
-#### Video: not confirmed
+#### Video: [http://youtu.be/cyXxsytSYNQ](http://youtu.be/cyXxsytSYNQ)
 
 ### Monday 19th August
 Coby Chapple
-#### Video: not confirmed
+#### Video: [http://youtu.be/1M3BFoHIn-0](http://youtu.be/1M3BFoHIn-0)
