@@ -10,5 +10,8 @@ I’m currently clearing out my apartment and my studio, and am selling off a fe
 ## I’m selling my bicycle.
 I had a beautiful single-speed bicycle custom built by Mission Bicycle in August 2012. It has sat in my studio, basically unused, since clearing customs. You can [check out the specification](http://goodonpaper.com/bicycle), or [email me](mailto:andy@goodonpaper.com) if you’re interested.
 
+## I’m selling my London’s Kerning print
+Beautiful (first edition!) 1015mm x 1530mm map typographic map of London designed by [NB](http://www.nbstudio.co.uk/our-work/londons-kerning) for the International Society of Typographic Designers. £100, sold framed. [Read more about the piece](http://www.nbstudio.co.uk/shop/lkposter), or [email me if you’re interested](mailto:andy@goodonpaper.com).
+
 ## I’m selling my cinema display.
 (**Update: sold!**) I bought a 27” Apple Cinema Display (Thunderbolt model) for my studio at the start of last year. It’s been well looked after since, not a dent or scratch. RRP £899, all yours for £500 (ono), [email me](mailto:andy@goodonpaper.com) if you’re interested. Oh, it’s in it’s original box too.
