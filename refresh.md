@@ -77,7 +77,8 @@ Talk title missing — Chris McClelland
 
 ### Monday 20th August
 Rewire Everything — Robert Stringer
-#### Video: [http://youtu.be/ld6g8j3Aho0](http://youtu.be/ld6g8j3Aho0)
+
+<iframe width="700" height="394" src="//www.youtube.com/embed/ld6g8j3Aho0" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 22nd October
 University of Ulster IMD MFA Night — Kyle Gawley, Pauline Clancy, Jonny Hall & David Turner 
