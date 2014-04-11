@@ -11,7 +11,7 @@ A complete list of every talk / speaker in the 5 year run of my organising [Refr
 ## 2009
 
 ### Monday 20th April
-**David Rice**
+#### David Rice
 Developer-fu & Mad Productivity Skills for Designers
 
 ### Monday 18th May
