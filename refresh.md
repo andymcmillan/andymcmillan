@@ -85,7 +85,7 @@ University of Ulster IMD MFA Night - Kyle Gawley, Pauline Clancy, Jonny Hall & D
 ## 2013
 
 ### Monday 18th February
-Simon Mills
+Talk Title TBC - Simon Mills
 
 <iframe width="700" height="394" src="//www.youtube.com/embed/wvUmu308B7c" frameborder="0" allowfullscreen></iframe>
 
