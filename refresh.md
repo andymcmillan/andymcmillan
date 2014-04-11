@@ -95,7 +95,7 @@ This Doesn’t Mean What You Think It Means - Peter Kerr
 <iframe width="700" height="394" src="//www.youtube.com/embed/g_VX8JCYcfs" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 17th June
-#theexpedition - Tim Potter & Gabriel Muldoon
+The Expedition - Tim Potter & Gabriel Muldoon
 
 <iframe width="700" height="394" src="//www.youtube.com/embed/cyXxsytSYNQ" frameborder="0" allowfullscreen></iframe>
 
