@@ -69,7 +69,8 @@ Collective History — Sam Bell
 
 ### Monday 20th February
 There's More Than One Way to Design a Cat — Richard Weston & Rick Monro
-#### Video: [http://youtu.be/F_ui8oXUCAM](http://youtu.be/F_ui8oXUCAM)
+
+<iframe width="700" height="394" src="//www.youtube.com/embed/F_ui8oXUCAM" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 16th April
 Talk title missing — Chris McClelland
@@ -82,7 +83,8 @@ Rewire Everything — Robert Stringer
 
 ### Monday 22nd October
 University of Ulster IMD MFA Night — Kyle Gawley, Pauline Clancy, Jonny Hall & David Turner 
-#### Video: [http://youtu.be/6ZjTRls9zNE](http://youtu.be/6ZjTRls9zNE)
+
+<iframe width="700" height="394" src="//www.youtube.com/embed/6ZjTRls9zNE" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 17th December
 12 Days of Christmas — Rick Monro, Peter Kerr, Richard Weston, Pauline Clancy, Jonny Campbell, Tommy Palmer, Chris Armstrong, Robert Stringer, Pauline Clancy, Chris McClelland, Darcie Graham, Danny Turley & David Hughes.
@@ -93,16 +95,20 @@ University of Ulster IMD MFA Night — Kyle Gawley, Pauline Clancy, Jonny Hall &
 
 ### Monday 18th February
 Simon Mills
-#### Video: [http://youtu.be/wvUmu308B7c](http://youtu.be/wvUmu308B7c)
+
+<iframe width="700" height="394" src="//www.youtube.com/embed/wvUmu308B7c" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 22nd April
 Pete Kerr
-#### Video: [http://youtu.be/g_VX8JCYcfs](http://youtu.be/g_VX8JCYcfs)
+
+<iframe width="700" height="394" src="//www.youtube.com/embed/g_VX8JCYcfs" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 17th June
 Tim Potter & Gabriel Muldoon
-#### Video: [http://youtu.be/cyXxsytSYNQ](http://youtu.be/cyXxsytSYNQ)
+
+<iframe width="700" height="394" src="//www.youtube.com/embed/cyXxsytSYNQ" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 19th August
 Coby Chapple
-#### Video: [http://youtu.be/1M3BFoHIn-0](http://youtu.be/1M3BFoHIn-0)
+
+<iframe width="700" height="394" src="//www.youtube.com/embed/1M3BFoHIn-0" frameborder="0" allowfullscreen></iframe>
