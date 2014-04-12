@@ -67,7 +67,7 @@ There's More Than One Way to Design a Cat - Richard Weston & Rick Monro
 <iframe width="700" height="394" src="//www.youtube.com/embed/F_ui8oXUCAM" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 16th April
-Talk Title TBC - Chris McClelland
+Start - Chris McClelland
 
 ### Monday 20th August
 Rewire Everything - Robert Stringer
@@ -85,7 +85,7 @@ University of Ulster IMD MFA Night - Kyle Gawley, Pauline Clancy, Jonny Hall & D
 ## 2013
 
 ### Monday 18th February
-Talk Title TBC - Simon Mills
+An Enquiring Mind - Simon Mills
 
 <iframe width="700" height="394" src="//www.youtube.com/embed/wvUmu308B7c" frameborder="0" allowfullscreen></iframe>
 
