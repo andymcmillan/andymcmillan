@@ -58,6 +58,7 @@ The Art of Freelancing - Eoghan McCabe
 
 ### Monday 22nd August
 Collective History - Sam Bell
+
 <iframe width="700" height="394" src="//www.youtube.com/embed/RCP2AFnLbvg" frameborder="0" allowfullscreen></iframe>
 
 ## 2012
