@@ -58,13 +58,14 @@ The Art of Freelancing - Eoghan McCabe
 
 ### Monday 22nd August
 Collective History - Sam Bell
+<iframe width="700" height="394" src="//www.youtube.com/embed/RCP2AFnLbvg" frameborder="0" allowfullscreen></iframe>
 
 ## 2012
 
 ### Monday 20th February
 There's More Than One Way to Design a Cat - Richard Weston & Rick Monro
 
-<iframe width="700" height="394" src="//www.youtube.com/embed/F_ui8oXUCAM" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="394" src="//www.youtube.com/embed/syLY5gmdJwg" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 16th April
 Start - Chris McClelland
@@ -72,12 +73,12 @@ Start - Chris McClelland
 ### Monday 20th August
 Rewire Everything - Robert Stringer
 
-<iframe width="700" height="394" src="//www.youtube.com/embed/ld6g8j3Aho0" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="394" src="//www.youtube.com/embed/r9Q4xjZ1BBg" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 22nd October
 University of Ulster IMD MFA Night - Kyle Gawley, Pauline Clancy, Jonny Hall & David Turner 
 
-<iframe width="700" height="394" src="//www.youtube.com/embed/6ZjTRls9zNE" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="394" src="//www.youtube.com/embed/mLG6fzXtkOY" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 17th December
 12 Days of Christmas - Rick Monro, Peter Kerr, Richard Weston, Pauline Clancy, Jonny Campbell, Tommy Palmer, Chris Armstrong, Robert Stringer, Pauline Clancy, Chris McClelland, Darcie Graham, Danny Turley & David Hughes.
@@ -87,19 +88,19 @@ University of Ulster IMD MFA Night - Kyle Gawley, Pauline Clancy, Jonny Hall & D
 ### Monday 18th February
 An Enquiring Mind - Simon Mills
 
-<iframe width="700" height="394" src="//www.youtube.com/embed/wvUmu308B7c" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="394" src="//www.youtube.com/embed/W0TwfL89zik" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 22nd April
 This Doesn’t Mean What You Think It Means - Peter Kerr
 
-<iframe width="700" height="394" src="//www.youtube.com/embed/g_VX8JCYcfs" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="394" src="//www.youtube.com/embed/pC1Pm9_hqdQ" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 17th June
 The Expedition - Tim Potter & Gabriel Muldoon
 
-<iframe width="700" height="394" src="//www.youtube.com/embed/cyXxsytSYNQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="394" src="//www.youtube.com/embed/4HTN9JYWQjM" frameborder="0" allowfullscreen></iframe>
 
 ### Monday 19th August
 Design In the Realm of Open Source - Coby Chapple
 
-<iframe width="700" height="394" src="//www.youtube.com/embed/1M3BFoHIn-0" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="394" src="//www.youtube.com/embed/p1CkB25X6ZA" frameborder="0" allowfullscreen></iframe>
