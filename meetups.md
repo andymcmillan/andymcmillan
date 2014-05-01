@@ -59,6 +59,11 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * Website: [http://belfastjs.org/](http://belfastjs.org/)
 * Twitter: [https://twitter.com/belfastjs](https://twitter.com/belfastjs)
 * Organiser(s): ???
+
+### BelfastJUG
+* Website: [https://java.net/projects/belfast-jug/](https://java.net/projects/belfast-jug)
+* Twitter: [https://twitter.com/BelfastJUG](https://twitter.com/BelfastJUG)
+* Organiser(s): Paul McMillen ([@pajmcm](https://twitter.com/pajmcm))
  
 ### PyBelfast
 * Twitter: [https://twitter.com/PyBelfast](https://twitter.com/PyBelfast)
