@@ -9,19 +9,19 @@ Inspired by [David Cole](http://davidcole.me/), this is the beginnings of my per
 
 The intention is for this to be constantly edited, with sources coming and going as my interests change and I expose myself to more of other people’s thinking.
 
-# Writing
+## Writing
 
 * [The Inferno of Independence](http://frankchimero.com/blog/the-inferno-of-independence/), by Frank Chimero
 
-# Talks
+## Talks
 
 * [Wilson Miner - When We Build](https://vimeo.com/34017777) (Build 2011)
 * [Ira Glass on Storytelling](http://numerocinqmagazine.com/2011/05/13/what-nobody-tells-beginners-ira-glass-on-storytelling/)
 
-# Music
+## Music
 
 * Still collecting.
 
-# Film
+## Film
 
 * Still collecting.
