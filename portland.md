@@ -7,18 +7,21 @@ title: Good On Paper · Navigating Portland
 
 ![Map of Central Portland](http://f.cl.ly/items/1z2U1O3E1I2d3s301W0D/Screen%20Shot%202014-05-10%20at%2010.07.31-2.png "Map of Central Portland")
 
-Central Portland is split into 4 quarters, divided by a street called Burnside going North / South (the pink line on the map), and divided by the Willamette River going West / East.
+Central Portland is split into 4 quarters, divided down the middle by a street called Burnside (the pink line on the map), and divided up the middle by the Willamette River.
 
 Portland works on the grid system, like most US cities. Streets that run North / South have names, and streets that run West / East have numbers.
 
-On the west side, the street numbers run higher the further west of the river you go, and on the east side, the street numbers run higher the further east of the river you go.
+On the west side, the street numbers get higher the further west of the river you go, and on the east side, the street numbers get higher the further east of the river you go.
 
-When you give an address, you’ll give the cross-streets, saying:
+## Giving your address
+
+When you give an address, you’ll give the *cross-streets*, saying:
+
 * which quarter of Portland you’re in (SW / SE / NW / NE)
 * which named street you’re on
 * which numbered street you’re on
 
-The XOXO venue this year is on “SE Salmon & 8th”, which means:
+The XOXO venue this year is on *SE Salmon & 8th*, which means:
 
 * you’re in SE Portland
 * on the named street called Salmon
