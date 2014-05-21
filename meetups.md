@@ -48,6 +48,11 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * Website: [http://belfastruby.com/](http://belfastruby.com/)
 * Twitter: [https://twitter.com/belfastruby](https://twitter.com/belfastruby)
 * Organiser(s): Rumble Labs ([@rumblelabs](https://twitter.com/rumblelabs))
+ 
+### NSBelfast
+* Website: [http://nsbelfast.com/](http://nsbelfast.com/)
+* Twitter: [https://twitter.com/NSBelfast](https://twitter.com/NSBelfast)
+* Organiser(s): ???
 
 ### PHP Belfast
 * Website: [http://phpbelfast.com/](http://phpbelfast.com/)
