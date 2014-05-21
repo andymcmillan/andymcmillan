@@ -14,7 +14,7 @@ My attempt at a comprehensive list of meetups for the tech, design, and developm
 * Twitter: [https://twitter.com/refreshbelfast](https://twitter.com/refreshbelfast)
 * Organiser(s): Chris Murphy ([@fehler](https://twitter.com/fehler)), Tim Potter ([@tejpotter](https://twitter.com/tejpotter)).
 
-### NI Design Alliance - Anatomy of Design lecture series
+### NI Design Alliance
 * Website: [http://www.nidesignalliance.com/events/](http://www.nidesignalliance.com/events/)
 * Twitter: [https://twitter.com/gooddesignni](https://twitter.com/gooddesignni)
 * Organiser(s): Various
