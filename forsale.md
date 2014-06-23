@@ -11,4 +11,7 @@ I’m currently clearing out my apartment and my studio, and am selling off a fe
 I had a beautiful single-speed bicycle custom built by Mission Bicycle in August 2012. It has sat in my studio, basically unused, since clearing customs. You can [check out the specification](http://goodonpaper.com/bicycle), or [email me](mailto:andy@goodonpaper.com) if you’re interested.
 
 ## I’m selling my whiteboard.
-It’s an aluminum frame magnetic whiteboard, 1m x 1.5m / 3.2 ft x 4.9 ft. In immaculate condition. Purchased from Viking Direct for £90 not too long ago, yours for £40. [Email me](mailto:andy@goodonpaper.com) if you’re interested.
+It’s an aluminum frame magnetic whiteboard, 1m x 1.5m / 3.2 ft x 4.9 ft. In immaculate condition. Purchased from Viking Direct for £90 not too long ago, yours for £50. [Email me](mailto:andy@goodonpaper.com) if you’re interested.
+
+## I’m selling my Cards Against Humanity.
+I have one set of the UK edition mixed with the first 4 expansion packs, which is yours for £40. I also have a full US edition, which is yours for £15. Everything is in excellent condition, [email me](mailto:andy@goodonpaper.com) if you’re interested.
