@@ -3,4 +3,4 @@ layout: default
 title: Good On Paper
 ---
 
-<iframe width="700" height="525" src="//www.youtube.com/embed/-LXl4y6D-QI" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="80" src="https://rd.io/i/QEhFK0YjQw/" frameborder="0"></iframe>
