@@ -3,12 +3,12 @@ layout: default
 title: Good On Paper
 ---
 
-# Hi, I’m Andy.
+# Hi, I’m Andy. 
 
-I publish [The Manual](http://themanual.org), a design journal for the web, and organize [XOXO](http://xoxofest.com), an experimental festival celebrating independently-produced art and technology in Portland, Oregon.
+I organize [XOXO](http://xoxofest.com "XOXO"), an experimental festival celebrating independent art and technology in Portland, Oregon, and publish [The Manual](http://themanual.org "The Manual"), a design journal for the web. Previously, I organized [Build](http://buildconf.com "Build"), a design festival for web designers in Belfast, Northern Ireland.
 
-I also like to [help other people organize events](http://andymcmillan.is).
+I also like to help other people organize their events. You can [hire me](http://andymcmillan.is) to help you too.
 
-I’m still figuring out what to use this corner of the Internet for. I use other corners of the Internet to [share photos](http://instagram.com/goodonpaper), [listen to music](http://www.rdio.com/people/goodonpaper/), [keep a log of the movies I watch](http://letterboxd.com/andymcmillan/), and [track the delicious beer I drink](https://untappd.com/user/andymcmillan).
+I use other corners of the Internet to [share photos](http://instagram.com/goodonpaper), [listen to music](http://www.rdio.com/people/goodonpaper/), [keep a log of the movies I watch](http://letterboxd.com/andymcmillan), and [track all the delicious beer I drink](https://untappd.com/user/andymcmillan).
 
-In the meantime, you can reach me via [email](mailto:andy@goodonpaper.com) or [Twitter](http://twitter.com/andymcmillan).
+You’re welcome to send me an [email](mailto:andy@goodonpaper.com), or say hi on [Twitter](http://twitter.com/andymcmillan).
