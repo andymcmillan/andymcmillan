@@ -5,7 +5,7 @@ title: Good On Paper
 
 # Hi, I’m Andy. 
 
-I organize [XOXO](http://xoxofest.com "XOXO"), an experimental festival celebrating independent art and technology in Portland, Oregon. I also publish [The Manual](http://themanual.org "The Manual"), a design journal for the web. 
+I’m one half of XOXO, an [experimental workspace](http://xoxopdx.com “XOXO”) and [annual festival](http://xoxopdx.com “XOXO”) for independent art and technology in Portland, Oregon. I also publish [The Manual](http://themanual.org "The Manual"), a design journal for the web. 
 
 I like to help other people organize their events. You can [hire me](http://andymcmillan.is) to help you too.
 
