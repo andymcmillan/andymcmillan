@@ -12,7 +12,7 @@ I’m selling my custom-built, single speed Mission Bicycle.
 
 > Mission Bicycles are made of steel, weigh less than twenty pounds, and are built to last a lifetime. Each one is custom built, part by part, in San Francisco, California. 
 
-This one was custom built to my specification, delivered to Belfast, and never used (because I am an idiot).
+This one was custom built to my specification, then never used (because I am an idiot).
 
 ## Specification
 
@@ -27,4 +27,4 @@ This one was custom built to my specification, delivered to Belfast, and never u
 * French Mavic rims, Formula hubs, and DT spokes (silver)
 
 ## Price
-TBC.
+Originally purchased for $1,315. Never used, in excellent condition. Current accepting all reasonable offers.
