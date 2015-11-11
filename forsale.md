@@ -5,29 +5,21 @@ title: Good On Paper · For Sale
 
 # For Sale
 
-I’m currently clearing out my apartment, and am selling off a few things I no longer need.
+I’m currently clearing out my apartment, and am selling off a few things I no longer need. If you’re interested in anything listed below, please [email me](mailto:andy@goodonpaper.com) and we’ll arrange pickup / delivery.
 
 ## Bike
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+I had a beautiful single-speed bicycle built by Mission Bicycle in August of 2012. Then, I never once rode it. So, you can [check out the specification](http://goodonpaper.com/bicycle), or [email me](mailto:andy@goodonpaper.com) if you’re interested in putting it to good use.
 
 ## Tech
-
-### 64GB iPhone 5 (GSM Unlocked)
-$200
-[Product Description]()
-
-### Dropcam HD
-$50
-[Product Description]()
-
-### Macbook Charger (Magsafe 1 with Magsafe 2 adaptor)
-[Product Description]()
-$30
 
 ### Joey Roth Ceramic Speakers
 [Product Description]()
 $150
+
+### 64GB iPhone 5 (GSM Unlocked)
+$200
+[Product Description]()
 
 ### Apple Time Capsule 1TB (A1355, 3rd generation, late 2009)
 [Product Description]()
@@ -41,6 +33,10 @@ $30
 [Product Description](http://www.amazon.com/gp/product/B00AJHDZSI?psc=1&redirect=true&ref_=oh_aui_search_detailpage)
 $50
 
+### Dropcam HD
+$50
+[Product Description]()
+
 ### Sennheiser HD25-1 II Closed-Back Headphones
 [Product Description](http://www.amazon.com/gp/product/B000TDZOXG?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00)
 $75
@@ -52,6 +48,10 @@ $40
 ### WD My Passport 2TB USB 3.0 Hard Drive
 [Product Description](http://www.amazon.com/gp/product/B00E055H5O?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00)
 $50
+
+### Macbook Charger (Magsafe 1 with Magsafe 2 adaptor)
+[Product Description]()
+$30
 
 ### Apple Magic Mouse 1
 [Product Description](http://www.amazon.com/gp/product/B002TLTGM6?psc=1&redirect=true&ref_=oh_aui_search_detailpage)
