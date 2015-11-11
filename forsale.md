@@ -9,26 +9,68 @@ I’m currently clearing out my apartment and my studio, and am selling off a fe
 
 Everything can be picked up from my apartment in South Belfast, and most of the smaller items can be shipped on request.
 
-## I’m selling my bicycle.
-I had a beautiful single-speed bicycle custom built by Mission Bicycle in August 2012. It has sat in my studio, basically unused, since clearing customs. You can [check out the specification](http://goodonpaper.com/bicycle), or [email me](mailto:andy@goodonpaper.com) if you’re interested.
+## 64GB iPhone 5 (GSM Unlocked)
+$200
 
-## I’m selling my TV.
-It’s a [Samsung 42-inch Widescreen Full HD 1080p Slim LED TV](http://www.amazon.co.uk/Samsung-UE42F5000AKXXU-42-inch-Widescreen-1080p/dp/B00BTG8AR4) which I bought late last year. I basically never watch TV so it’s basically brand new. RRP £449, yours for £300 (ONO). [Email me](mailto:andy@goodonpaper.com) if you’re interested.
+## Dropcam HD
+$50
 
-## I’m selling my Apple TV.
-Exactly what it says on the tin, it’s a current generation [Apple TV](https://www.apple.com/appletv/). I’ll throw in the HDMI cable too, because I’m nice like that. £50. [Email me](mailto:andy@goodonpaper.com) if you’re interested.
+## Macbook Charger (Magsafe 1 with Magsafe 2 adaptor)
+$30
 
-## I’m selling my Bowers & Wilkins Airplay speaker.
-It’s a [Bowers & Wilkins A5 Wireless Music System](http://www.amazon.co.uk/Bowers-Wilkins-Wireless-Music-System/dp/B009M2X1NA/ref=sr_1_1?ie=UTF8&qid=1404488543&sr=8-1&keywords=Bowers+%26+Wilkins+A5+Wireless+Music+System). Bought just after Christmas, great audio quality, and it works using Airplay over wifi. In excellent condition. RRP £399, yours for £250. [Email me](mailto:andy@goodonpaper.com) if you’re interested.
+## Joey Roth Ceramic Speakers
+$150
 
-## I’m selling my DAB radio.
-It’s a [PURE EVOKE-1S Luxury Portable DAB/FM Radio](http://www.amazon.co.uk/PURE-EVOKE-1S-Luxury-Portable-Radio/dp/B000VKEFGY), in maple. Pretty much the standard DAB radio. RRP at £150, you can take it for £90. [Email me](mailto:andy@goodonpaper.com) if you’re interested.
+## Apple Time Capsule 1TB (A1355, 3rd generation, late 2009)
+$60
 
-## I’m selling my burr grinder.
-Yep. Decent low-end [De'Longhi KG79 Professional Burr Grinder](http://www.amazon.co.uk/DeLonghi-KG79-Professional-Burr-Grinder/dp/B002OHDBQC/ref=sr_1_1?ie=UTF8&qid=1404488587&sr=8-1&keywords=De%27Longhi+KG79+Professional+Burr+Grinder). Y’know, for grinding coffee. RRP £40, you can have it for £20. [Email me](mailto:andy@goodonpaper.com) if you’re interested.
+## Apple Airport Express (A1392, current generation)
+$30
 
-## I’m selling my whiteboard.
-It’s an aluminum frame magnetic whiteboard, 1m x 1.5m / 3.2 ft x 4.9 ft. In immaculate condition. Purchased from Viking Direct for £90 not too long ago, yours for £50. [Email me](mailto:andy@goodonpaper.com) if you’re interested.
+## ARRIS SURFboard SB6141 DOCSIS 3.0 Cable Modem
+$50
 
-## I’m selling my Cards Against Humanity.
-I have one set of the UK edition mixed with the first 4 expansion packs, which is yours for £40. I also have a full US edition, which is yours for £15. Everything is in excellent condition, [email me](mailto:andy@goodonpaper.com) if you’re interested.
+Original price: $99.99
+Original Amazon product page: http://www.amazon.com/gp/product/B00AJHDZSI?psc=1&redirect=true&ref_=oh_aui_search_detailpage
+
+## Sennheiser HD25-1 II Closed-Back Headphones
+Original price: $199.88
+Original Amazon product page: http://www.amazon.com/gp/product/B000TDZOXG?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00
+
+## UE MINI BOOM Wireless Bluetooth Speaker
+$40
+
+Original price: $79.99
+Original Amazon product page: http://www.amazon.com/gp/product/B00E9YIFQ4?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00
+
+## WD My Passport Ultra 2 TB Portable USB 3.0 Hard Drive 
+$50
+
+Original price: $114.00
+Original Amazon product page: http://www.amazon.com/gp/product/B00E055H5O?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00
+
+## Apple Magic Mouse 1
+$10
+ 
+Original price: $65
+Original Amazon product page: http://www.amazon.com/gp/product/B002TLTGM6?psc=1&redirect=true&ref_=oh_aui_search_detailpage
+
+# Furniture
+
+## Ikea Nyvoll Full Bed Frame
+$200
+Discontinued by Ikea
+[Craiglist Listing](http://portland.craigslist.org/mlt/fuo/5307716235.html)
+
+## IKEA BASNÄS Rug
+$250
+[Craiglist Listing](http://portland.craigslist.org/mlt/fuo/5307752854.html)
+
+
+
+Bike
+
+## Always With Honor “Link’s Burden”
+http://www.alwayswithhonor.com/Triforce-Tribute
+
+B+W A5
