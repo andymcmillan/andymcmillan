@@ -9,7 +9,7 @@ I’m currently clearing out my apartment, and am selling off a few things I no 
 
 
 
-### 64GB iPhone 5 (GSM Unlocked)
+**64GB iPhone 5 (GSM Unlocked)**
 
 $200
 
