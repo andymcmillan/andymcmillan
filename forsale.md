@@ -5,11 +5,12 @@ title: Good On Paper · For Sale
 
 # For Sale
 
-I’m currently clearing out my apartment and my studio, and am selling off a few things I no longer need. You may also be interested to see [what I currently have listed on eBay](http://www.ebay.co.uk/usr/andygood).
+I’m currently clearing out my apartment, and am selling off a few things I no longer need.
 
-Everything can be picked up from my apartment in South Belfast, and most of the smaller items can be shipped on request.
 
-## 64GB iPhone 5 (GSM Unlocked)
+
+### 64GB iPhone 5 (GSM Unlocked)
+
 $200
 
 ## Dropcam HD
