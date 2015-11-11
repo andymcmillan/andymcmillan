@@ -14,12 +14,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ## Tech
 
 ### 64GB iPhone 5 (GSM Unlocked)
-[Product Description]()
 $200
+[Product Description]()
 
 ### Dropcam HD
-[Product Description]()
 $50
+[Product Description]()
 
 ### Macbook Charger (Magsafe 1 with Magsafe 2 adaptor)
 [Product Description]()
