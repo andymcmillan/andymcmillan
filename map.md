@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Good On Paper · Map
+title: Good On Paper · Map of Portland and Vicinity
 ---
+
+# Map of Portland and Vicinity
 
 I’m printing a high quality reproduction of this beautiful map of Portland. Produced by the American Map and Reproducing Company in 1912, and titled “Map of Portland and Vicinity”.
 
