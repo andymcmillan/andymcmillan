@@ -19,8 +19,6 @@ The map is 28”x40” 8-color, 1200 dpi giclée print, on 205gsm 100% cotton ra
 
 <strike>I’m offering this initially as a limited run for friends. As such, the prints are available at cost, for $50. Local collection preferred, please.</strike> 
 
-**Initial run sold out. Check back soon!**
-
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"1fb748b42a76aa9f52d6a9697","lid":"9a19e1c7ba"}) })</script>
+**The initial run of maps is now sold out.** [http://eepurl.com/bH-HET](Enter your email address), and I’ll contact you when they’re available for general purchase.
 
 Thanks to Devin Busby and the team at the City of Portland Archives and Records Center for making the original map available for reproduction.
