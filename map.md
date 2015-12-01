@@ -7,7 +7,7 @@ title: Good On Paper · Map of Portland and Vicinity
 
 Hello, friends! 
 
-Earlier this year, during a tour of the City of Portland Archives as part of Oregon Archives Month, I came across a beautiful, rarely exhibited map of the Portland, produced by the American Map and Reproducing Company in 1912.
+Earlier this year, during a tour of the City of Portland Archives as part of Oregon Archives Month, I came across a beautiful, rarely exhibited map of Portland, produced by the American Map and Reproducing Company in 1912.
 
 The map was produced shortly after the merging of East Portland, Albina and Portland in 1891, but before the street name standardization project of the early 1930’s — giving a unique snapshot of the city’s landscape during a period of great change.
 
@@ -27,6 +27,7 @@ I’m offering this initially as a limited run for friends. As such, the prints 
     data-amount="5000"
     data-locale="auto"
     data-shipping-address="true"
+    data-label="Buy Now for $50"
   >
   </script>
 </form>
