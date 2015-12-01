@@ -19,6 +19,6 @@ The map is 28”x40” 8-color, 1200 dpi giclée print, on 205gsm 100% cotton ra
 
 I’m offering this initially as a limited run for friends. As such, the prints are available at cost, for $50. Local collection preferred, please.
 
-**[https://cash.me/$andymcmillan/50](Pay Now using Square Cash)**
+**[Pay Now using Square Cash](https://cash.me/$andymcmillan/50)**
 
 Thanks to Devin Busby and the team at the City of Portland Archives and Records Center for making the original map available for reproduction.
