@@ -17,6 +17,8 @@ The City of Portland Archives have been kind enough to furnish me with a high re
 
 The map is 28”x40” 8-color, 1200 dpi giclée print, on 205gsm 100% cotton rag fine-art paper, printed by ColorHaus in SE Portland.
 
-<strike>I’m offering this initially as a limited run for friends. As such, the prints are available at cost, for $50. Local collection preferred, please.</strike> Initial run sold out. Check back soon!
+<strike>I’m offering this initially as a limited run for friends. As such, the prints are available at cost, for $50. Local collection preferred, please.</strike> 
+
+**Initial run sold out. Check back soon!**
 
 Thanks to Devin Busby and the team at the City of Portland Archives and Records Center for making the original map available for reproduction.
