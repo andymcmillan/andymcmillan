@@ -1,5 +1,5 @@
 name:     Good On Paper
 markdown: redcarpet
-pygments: true
+highlighter: 'pygments'
 include:  ['.htaccess']
 exclude:  ['scss', '*.sh', 'README.md']
