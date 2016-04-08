@@ -1,5 +1,5 @@
 name:     Good On Paper
 markdown: kramdown
-highlighter: 'pygments'
+highlighter: rouge
 include:  ['.htaccess']
 exclude:  ['scss', '*.sh', 'README.md']
