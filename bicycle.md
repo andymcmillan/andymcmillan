@@ -16,7 +16,7 @@ This one was custom built to my specification, then never used (because I am an 
 
 ## Specification
 
-* 56cm Valencia frame in grey (clear coat with matt finish) 
+* 56cm Valencia frame in grey (clear coat with matte finish) 
 * Bullhorn handlebar with Brooks leather grips (honey)
 * IRD Technoglide headset
 * Brooks B17 leather saddle (honey)
