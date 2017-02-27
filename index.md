@@ -9,4 +9,4 @@ I organize [XOXO](https://xoxofest.com), an experimental festival celebrating in
 
 Previously I published [The Manual](https://themanual.org), a design journal for the web, and organized [Build](http://buildconf.com), which was a design festival for web designers.
 
-You’re welcome to [send me an email](mailto:andy@goodonpaper.com), or [say hi on Twitter](https://twitter.com/andymcmillan).
+You’re welcome to [send me an email](mailto:hi@andymcmillan.com), or [say hi on Twitter](https://twitter.com/andymcmillan).
