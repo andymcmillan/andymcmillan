@@ -3,10 +3,12 @@ layout: default
 title: Good On Paper
 ---
 
-# Hi, I’m Andy. 
+# Hi, I’m Andy.
 
-I organize [XOXO](https://xoxofest.com), an experimental festival celebrating independent artists working online, and manage [The Outpost](https://outpostpdx.com), a shared workspace for the XOXO community.
+I run [The Liberty Foundation](http://theliberty.foundation), which supports artists who work on the internet by giving them the tools they need to grow their practice into an independent business.
 
-Previously I published [The Manual](https://themanual.org), a design journal for the web, and organized [Build](http://buildconf.com), which was a design festival for web designers.
+I'm also one half of [XOXO](http://xoxofest.com), an experimental festival for independent artists who work on the internet. 
 
-You’re welcome to [send me an email](mailto:hi@andymcmillan.com), or [say hi on Twitter](https://twitter.com/andymcmillan).
+Previously, I organized [Build](http://buildconf.com), a design festival, and published [The Manual](http://themanual.org), a design journal, both for designers who work on the internet.
+
+You’re welcome to [send me an email](mailto:hi@andymcmillan.com), or [say hi on Twitter](http://twitter.com/andymcmillan).
