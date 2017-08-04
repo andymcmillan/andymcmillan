@@ -11,4 +11,4 @@ I'm also one half of [XOXO](http://xoxofest.com), an experimental festival for i
 
 Previously, I organized [Build](http://buildconf.com), a design festival, and published [The Manual](http://themanual.org), a design journal, both for designers who work on the internet.
 
-You’re welcome to [send me an email](mailto:hi@andymcmillan.com), or [say hi on Twitter](http://twitter.com/andymcmillan).
+You’re welcome to [send me an email](mailto:hi@andymcmillan.com), or [say hi on Twitter](http://twitter.com/andymcmillan). Or maybe you'd like to [support me on Patreon](https://www.patreon.com/andymcmillan).
