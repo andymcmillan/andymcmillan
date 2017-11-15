@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Good On Paper
+title: Andy McMillan
 ---
 
 # Hi, I’m Andy.
