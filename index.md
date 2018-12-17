@@ -3,10 +3,10 @@ layout: default
 title: Andy McMillan
 ---
 
-# Hi, I’m Andy.
+# Hi, I'm Andy.
 
-I organize [XOXO](http://xoxofest.com), an experimental festival for independent artists who work on the internet. 
+I'm an independent event producer living in Portland, Oregon. I organize [XOXO](http://xoxofest.com), an experimental festival for independent artists who live and work online. 
 
-I also manage a non-profit called [The Liberty Foundation](http://theliberty.foundation) which supports artists who work on the internet by giving them the tools they need to grow their practice into an independent business.
+Previously, I ran [The Outpost](http://outpostpdx.com), a shared workspace for independent artists, organized [Build](http://buildconf.com), an annual festival for designers who work on the internet, and published [The Manual](http://themanual.org), a journal for designers who work on the internet.
 
-You’re welcome to [send me an email](mailto:hi@andymcmillan.com), or you can [follow my work on Patreon](https://www.patreon.com/andymcmillan).
+Want to get in touch? [Send me an email](mailto:hi@andymcmillan.com).
