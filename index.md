@@ -5,9 +5,7 @@ title: Andy McMillan
 
 # Hi, I'm Andy.
 
-I'm a designer and event producer. I live in Portland, Oregon. 
-
-Right now I'm working on [a new platform](https://www.kickstarter.com/blog/a-new-approach-to-our-work-on-drip) for independent artists to share their work, build community, and support their creative practice with ongoing financial support.
+I'm a designer and event producer. I live in Portland, Oregon.
 
 I also organize [XOXO](http://xoxofest.com), an experimental festival for independent artists who live and work online. 
 
