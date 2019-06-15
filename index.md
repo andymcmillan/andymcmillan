@@ -11,4 +11,4 @@ I also organize [XOXO](http://xoxofest.com), an experimental festival for indepe
 
 Previously, I ran [The Outpost](http://outpostpdx.com), a shared workspace for independent artists, published [The Manual](http://themanual.org), a design journal for web designers, and organized [Build](http://buildconf.com), a design festival for web designers.
 
-Want to get in touch? [Send me an email](mailto:hi@andymcmillan.com).
+You can follow me on [Twitter](https://twitter.com/andymcmillan), [Instagram](https://instagram.com/goodonpaper), and [Letterboxd](https://letterboxd.com/andymcmillan/). Want to get in touch? You can [send me an email](mailto:hi@andymcmillan.com).
