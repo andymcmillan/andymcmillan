@@ -3,7 +3,7 @@ layout: default
 title: Andy McMillan
 ---
 
-# Hi, I’m Andy.
+# Hi, my name is Andy.
 
 I’m an event producer and designer based in Portland, Oregon.
 
