@@ -5,7 +5,7 @@ title: Andy McMillan
 
 # Hi, my name is Andy.
 
-I'm the co-founder and producer of [XOXO](https://xoxofest.com), an experimental festival for independent artists who live and work online. 
+I'm the co-founder and producer of [XOXO](https://xoxofest.com), an experimental festival for independent artists who live and work online. I occasionally produce events for clients through my studio, [Regular](http://regular.events).
 
 I’m also the proprietor of [Suckerpunch](https://suckerpunchpdx.com), a new alcohol-free bar in Portland, Oregon.
 
