@@ -5,7 +5,7 @@ title: Andy McMillan
 
 # Hi, my name is Andy.
 
-I’m the owner of [Suckerpunch](https://suckerpunch.bar/), a zero-proof cocktail bar in Portland, Oregon.
+I’m the owner of [Suckerpunch](https://suckerpunch.bar/), Portland's first dedicated zero-proof bar.
 
 I’m also the co-founder of [XOXO](https://xoxofest.com/), an experimental festival for independent artists who live and work online. I occasionally produce events for clients through my studio, [Regular](https://regular.events/).
 
