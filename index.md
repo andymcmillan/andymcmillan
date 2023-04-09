@@ -11,4 +11,4 @@ I’m also the co-founder of [XOXO](https://xoxofest.com/), an experimental fest
 
 Previously, I produced [Build](https://buildconf.com/), a festival for designers who work on the internet, and published [The Manual](https://alwaysreadthemanual.com/), a journal for designers who work on the internet.
 
-You can follow me on <a href="#">Mastodon</a>, [Instagram](https://www.instagram.com/goodonpaper/) and [Letterboxd](https://letterboxd.com/andymcmillan/). Want to get in touch? You can [send me an email](mailto:hi@andymcmillan.com).
+You can follow me on <a rel="me" href="https://xoxo.zone/@andymcmillan">Mastodon</a>, [Instagram](https://www.instagram.com/goodonpaper/) and [Letterboxd](https://letterboxd.com/andymcmillan/). Want to get in touch? You can [send me an email](mailto:hi@andymcmillan.com).
