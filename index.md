@@ -9,7 +9,7 @@ I’m a creative director, designer, and event producer based in Portland, Orego
 
 I’m also one of the organizers of [XOXO](https://xoxofest.com), an experimental festival that celebrates independent artists who live and work on the internet.
 
-I’m also the owner and co-founder of [Heck](https://heck.beer), an independent non-alcoholic craft brewery based in Portland, Oregon.
+I’m also the owner and co-founder of [Heck](https://heckbrewing.com), an independent non-alcoholic craft brewery based in Portland, Oregon.
 
 I work with internet companies on their community and events strategy through my studio, [Regular](https://regular.events). We’ve produced festivals and conferences including Duolingo Duocon, Adobe 99U, Framer Loupe, and BackerKit Bond, and have consulted on projects for clients including Slack, Intel, Figma, and Ableton.
 
