@@ -7,7 +7,7 @@ title: Andy McMillan
 
 I’m a creative director, designer, and event producer based in Portland, Oregon.
 
-I’m one of the organizers of [XOXO](https://xoxofest.com), an experimental festival that celebrates independent artists who live and work on the internet.
+I’m one half of [XOXO](https://xoxofest.com), an experimental festival that celebrates independent artists who live and work on the internet.
 
 I’m also the owner and co-founder of [Heck](https://heckbrewing.com), an independent non-alcoholic craft brewery based in Portland, Oregon.
 
